@@ -1,0 +1,41 @@
+{
+  "subtitle": "Fantastic and Premium Clients",
+  "title": "We Have Had the Pleasure of Working with Some Clients",
+  "items": [
+    {
+      "link": "https://www.fev.com/en/",
+      "label": "FEV",
+      "image": "/assets/brand/fev.svg"
+    },
+    {
+      "link": "https://www.sypheononline.com/demo",
+      "label": "Visit Website",
+      "image": "/assets/brand/sypheon.png"
+    },
+    {
+      "link": "https://www.vulpes-smartwear.com/",
+      "label": "Visit Website",
+      "image": "/assets/brand/Vulpes.png"
+    },
+    {
+      "link": "https://wemalo.com/en/",
+      "label": "Visit Website",
+      "image": "/assets/brand/wemalo.png"
+    },
+    {
+      "link": "https://www.aegps.com",
+      "label": "Visit Website",
+      "image": "/assets/brand/aegps.svg"
+    },
+    {
+      "link": "https://www.shadet.de/",
+      "label": "Visit Website",
+      "image": "/assets/brand/shadet.svg"
+    },
+    {
+      "link": "https://smakku.de/",
+      "label": "Visit Website",
+      "image": "/assets/brand/smakku_e1.svg"
+    }
+  ]
+}

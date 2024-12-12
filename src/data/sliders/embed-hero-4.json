@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "MI Park",
+      "subtitle": "Hardware",
+      "image": {
+        "desktop": "/assets/project/mira-1.jpg",
+        "mobile": "/assets/project/mira-1.jpg"
+      },
+      "button": {
+        "label": "View Project",
+        "link": "/embedded-projects/mi-park"
+      }
+    },
+    {
+      "title": "Smart Inventer Design",
+      "subtitle": "Hardware",
+      "image": {
+        "desktop": "/assets/project/inverter-cover-2.png",
+        "mobile": "/assets/project/inverter-cover-2.png"
+      },
+      "button": {
+        "label": "View Project",
+        "link": "/embedded-projects/smart-inverter-design"
+      }
+    },
+    {
+      "title": "Laser Pointing and Object Detection System",
+      "subtitle": "Hardware",
+      "image": {
+        "desktop": "/assets/project/laser-pointing-1.jpeg",
+        "mobile": "/assets/project/laser-pointing-1.jpeg"
+      },
+      "button": {
+        "label": "View Project",
+        "link": "/embedded-projects/laser-pointing-and-obs"
+      }
+    },
+    {
+      "title": "Advanced Battery <br/> Management System",
+      "subtitle": "Hardware",
+      "image": {
+        "desktop": "/assets/project/battery-management-3.jpg",
+        "mobile": "/assets/project/battery-management-3.jpg"
+      },
+      "button": {
+        "label": "View Project",
+        "link": "/embedded-projects/advanced-battery-management-system"
+      }
+    },
+    {
+      "title": "App-Controlled <br /> Warm-Soles",
+      "subtitle": "Embedded Systems",
+      "image": {
+        "desktop": "/assets/project/app-controlled-cover-8.jpg",
+        "mobile": "/assets/project/app-controlled-cover-8.jpg"
+      },
+      "button": {
+        "label": "View Project",
+        "link": "/embedded-projects/app-controlled-warm-soles"
+      }
+    }
+  ]
+}

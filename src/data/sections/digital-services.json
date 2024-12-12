@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "id": "web-development",
+        "image": "/assets/images/service/web.png",
+        "title": "Web Development",
+        "text": "Build an attractive website packed with modern features. Our web developers master the craft of designing, building, and maintaining e-commerce websites and web-based applications built on modern tech stacks.",
+        "link": "service-details"
+      },
+      {
+        "id": "mobile-app-developement",
+        "image": "/assets/images/service/app.png",
+        "title": "Mobile App Development",
+        "text": "Mobile apps that run across different platforms and varying screen sizes. Be it games, e-commerce apps or educational apps, our team is ready to give you a comprehensive solution to stand tall in sheer competition.",
+        "link": "service-details"
+      },
+      {
+        "id": "enterprise-software",
+        "image": "/assets/images/service/enterprise.png",
+        "title": "Enterprise Software",
+        "text": "With vast experience in development and implementation of Enterprise solutions, MIRA has an expert team of developers and consultant to take your business to the next level. We offer exclusive services for SAP with add-ons integration.",
+        "link": "service-details"
+      },
+      {
+        "id": "cloud-based-solutions",
+        "image": "/assets/images/service/cloud.png",
+        "title": "Cloud-Based Solutions",
+        "text": "With Mira's managed cloud services enjoy secure, scalable solutions along with storage, processing, and app deployment. We hold expertise in working with all major cloud platforms like GCP, GKE, AWS, and Azure",
+        "link": "service-details"
+      },
+      {
+        "id": "ui-ux-design",
+        "image": "/assets/images/service/ui.png",
+        "title": "UI/UX Design Services",
+        "text": "We hold expertise in creating not only visually aesthetic interfaces, but also user-friendly ones which will help improve the user experience. A compelling UI/UX design based on in-depth research on user behavior and needs.",
+        "link": "/contact-us"
+      },
+      {
+        "id": "maintenance-and-support",
+        "image": "/assets/images/service/support.png",
+        "title": "Maintenance and Support",
+        "text": "Robust maintenance and support services allow the software, apps, products, and websites to work efficiently, flawlessly and evolve with time. Get timely updates, fix bugs, and address issues that affect your workflow.",
+        "link": "/contact-us"
+      },
+      {
+        "id": "devops-and-ci",
+        "image": "/assets/images/service/devops.png",
+        "title": "DevOps & CI",
+        "text": "Our DevOps & CI solutions are aimed at integrating the process of development and operations. With our automation into the deployment process catch errors in the early stages and ensure rapid delivery of your applications.",
+        "link": "/contact-us"
+      },
+      {
+        "id": "qa-and-testing",
+        "image": "/assets/images/service/test.png",
+        "title": "QA and Testing",
+        "text": "A robust QA and testing service lies at the core of successful applications and satisfied users. Using both manual and automated scripts, our team ensures that the application is free from errors and runs according to the user requirements.",
+        "link": "/contact-us"
+      },
+      {
+        "id": "custom-software-solutions",
+        "image": "/assets/images/service/custom.png",
+        "title": "Custom Software Solutions",
+        "text": "Off-the-shelf not fitting your requirements? Our custom software solutions incorporate all enterprise, gaming, and e-commerce applications that offer flexibility to do your tasks in your own way and increase efficiency.",
+        "link": "service-details"
+      }
+    ]
+  }
+  

@@ -1,0 +1,19 @@
+{
+  "title": "Testimonials",
+  "rating": {
+    "value": "5.0",
+    "label": "Rating from all Client's"
+  },
+  "items": [
+    {
+      "name": "Anneliese Ruff",
+      "role": "Development",
+      "text": "Working with Mira Elektronikentwicklung has been an absolute pleasure.<br/>Their team of developers are truly impressive.<br/>Their talent and sharp skills consistently deliver outstanding results. Big thanks to Raza Abbas for his invaluable support whenever we need it. Highly recommended!"
+    },
+    {
+      "name": "Frederick Leon",
+      "role": "Code Quality",
+      "text": "(We've been partnering with Mira Elektronikentwicklung for quite some time now, and their support has been instrumental in our testing and system management. Highly recommended for their expertise in software system development – they're truly specialists in their field)."
+    }
+  ]
+}

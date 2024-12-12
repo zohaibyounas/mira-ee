@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "label": "- Embedded Engineering",
+      "link": "/services/service-1"
+    },
+    {
+      "label": "- Battery Management",
+      "link": "/services/service-2"
+    },
+    {
+      "label": "- Mobile App Development",
+      "link": "/services/service-3"
+    },
+    {
+      "label": "- Hardware and Firmware Development",
+      "link": "/services/service-4"
+    },
+    {
+      "label": "- End-to-End Product Development",
+      "link": "/contact-us"
+    },
+    {
+      "label": "- Machine Learning",
+      "link": "/contact-us"
+    }
+  ]
+}

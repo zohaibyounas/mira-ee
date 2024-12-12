@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "embedded-engineering",
+      "image": "/assets/images/service/chip.png",
+      "title": "Embedded Engineering",
+      "text": "We develop electronic systems for you that are embedded in other devices, such as cars, airplanes, household appliances and cell phones.",
+      "link": "service-details"
+    },
+    {
+      "id": "battery-management",
+      "image": "/assets/images/service/battery.png",
+      "title": "Battery Management",
+      "text": "We develop software for you that monitors and controls batteries to increase their service life, performance and safety.",
+      "link": "service-details"
+    },
+    {
+      "id": "mobile-app-development",
+      "image": "/assets/images/service/coding.png",
+      "title": "Mobile App Development",
+      "text": "We develop software applications for mobile devices such as smartphones and tablets.",
+      "link": "service-details"
+    },
+    {
+      "id": "hardware-and-firmware-dev",
+      "image": "/assets/images/service/hosting.png",
+      "title": "Hardware and Firmware development",
+      "text": "We develop and maintain hardware and software used in electronic devices.",
+      "link": "service-details"
+    },
+    {
+      "id": "end-to-end-product-dev",
+      "image": "/assets/images/service/idea.png",
+      "title": "End-to-End Product Development",
+      "text": "We develop products for you from conception to market launch.",
+      "link": "/contact-us"
+    },
+    {
+      "id": "machine-learning",
+      "image": "/assets/images/service/machine-learning.png",
+      "title": "Machine Learning",
+      "text": "We develop machine learning software that optimizes decision-making processes to enhance efficiency.",
+      "link": "/contact-us"
+    }
+  ]
+}

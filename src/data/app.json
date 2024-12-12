@@ -1,0 +1,163 @@
+{
+  "settings": {
+    "siteName": "Mira",
+    "preloader": true,
+    "formspreeURL": "https://formspree.io/f/mkndbrbl",
+    "portfolio": {
+      "categories": [
+        {
+          "label": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "label": "Interactive",
+          "slug": "interactive"
+        },
+        {
+          "label": "Design",
+          "slug": "design"
+        },
+        {
+          "label": "Branding",
+          "slug": "branding"
+        }
+      ]
+    }
+  },
+  "header": {
+    "logo": {
+      "image": "/images/logoMira2.png",
+      "image_white": "/images/logoMira2.png",
+      "alt": "logo"
+    },
+    "menu": [
+      {
+        "label": "Home",
+        "link": "/",
+        "children": 0
+      },
+      {
+        "label": "About",
+        "link": "/about",
+        "children": [
+          {
+            "label": "About Us",
+            "link": "/about",
+            "children": 0
+          },
+          {
+            "label": "Team",
+            "link": "/team",
+            "children": 0
+          }
+        ]
+      },
+      {
+        "label": "Services",
+        "link": "/embedded-services",
+        "children": [
+          {
+            "label": "Embedded Solutions",
+            "link": "/embedded-solutions",
+            "children": 0
+          },
+          {
+            "label": "Digital Solutions",
+            "link": "/digital-solutions",
+            "children": 0
+          }
+        ]
+      },
+      {
+        "label": "Our Projects",
+        "link": "/projects",
+        "children": [
+          {
+            "label": "Embedded Projects",
+            "link": "/embedded-projects",
+            "children": 0
+          },
+          {
+            "label": "Digital Projects",
+            "link": "/digital-projects",
+            "children": 0
+          }
+        ]
+      },
+
+      {
+        "label": "Contact Us",
+        "link": "/contact",
+        "children": 0
+      }
+    ],
+    "button": {
+      "label": "Showcase",
+      "link": "/embedded-projects"
+    },
+    "button2": {
+      "label": "Translate to Dutch"
+    }
+  },
+  "footer": {
+    "logo": {
+      "image": "/images/logoSimple.png",
+      "alt": "logo"
+    },
+    "gallery": [
+      {
+        "image": "/images/post5-1024x683.jpg",
+        "title": "image",
+        "alt": "image"
+      },
+      {
+        "image": "/images/post4-1024x683.jpg",
+        "title": "image",
+        "alt": "image"
+      },
+      {
+        "image": "/images/post3-1024x683.jpg",
+        "title": "image",
+        "alt": "image"
+      },
+      {
+        "image": "/images/post4-1024x683.jpg",
+        "title": "image",
+        "alt": "image"
+      },
+      {
+        "image": "/images/post1-1024x683.jpg",
+        "title": "image",
+        "alt": "image"
+      },
+      {
+        "image": "/images/post6-1024x683.jpg",
+        "title": "image",
+        "alt": "image"
+      }
+    ],
+    "copy": "Copyright © 2024 Mira All Rights Reserved."
+  },
+  "social": [
+    {
+      "link": "https://web.facebook.com/people/Mira-Elektronikentwicklung/61559868427690/",
+      "icon": "fab fa-facebook",
+      "title": "Facebook"
+    },
+    {
+      "link": "https://www.instagram.com/mira.elektronikentwicklung/",
+      "icon": "fab fa-instagram",
+      "title": "Instagram"
+    },
+    {
+      "link": "https://x.com/MiraElektr66579?s=09",
+      "icon": "fab fa-twitter",
+      "title": "Twitter"
+    },
+    {
+      "link": "https://www.linkedin.com/company/mira-elektronikentwicklung/",
+      "icon": "fab fa-linkedin",
+      "title": "Linkedin"
+    }
+  ]
+}

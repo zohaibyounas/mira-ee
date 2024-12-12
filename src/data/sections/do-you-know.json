@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": "do-you-know-1",
+      "image": "/assets/images/do-you-know/idea.png",
+      "title": "Nobody takes ownership of the product?",
+      "text": "You're worried that your team isn't capable of building your product. They are not sure if they can achieve the vision for the product. We would be happy to support you with this.",
+      "link": "service-details"
+    },
+    {
+      "id": "do-you-know-2",
+      "image": "/assets/images/do-you-know/exam-results.png",
+      "title": "Nobody feels responsible for the results?",
+      "text": "This means you need a partner who understands your technology and is able to solve problems and develop new features without you having to constantly ask. We would be happy to support you with this",
+      "link": "service-details"
+    },
+    {
+      "id": "service-3",
+      "image": "/assets/images/do-you-know/compass.png",
+      "title": "Don't have time for strategy?",
+      "text": "You want to shift your focus from operational product management to strategic decisions because you believe you can have a greater impact on the success of the product. We would be happy to support you with this.",
+      "link": "service-details"
+    },
+    {
+      "id": "service-4",
+      "image": "/assets/images/do-you-know/clock.png",
+      "title": "They require a lot of communication effort, which slows down the project",
+      "text": "In fact, if a project is poorly planned and managed, it can lead to communication problems and delays. We can prevent this for you.",
+      "link": "service-details"
+    }
+  ]
+}

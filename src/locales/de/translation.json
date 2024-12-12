@@ -1,0 +1,604 @@
+{
+  "Home": "Startseite",
+  "About": "Über",
+  "About Us": "Über uns",
+  "Team": "Team",
+  "Services": "Dienstleistungen",
+  "Our Projects": "Unsere Projekte",
+  "Contact Us": "Kontaktieren Sie uns",
+  "Showcase": "Schaukasten",
+  "Marketing": "Marketing",
+  "Interactive": "Interaktiv",
+  "Design": "Design",
+  "Branding": "Markenbildung",
+  "Translate to Arabic": "Übersetzen ins Arabische",
+  "Optimal Cost in Quality Embedded Systems": "Optimale Kosten in hochwertigen Embedded-Systemen",
+  "We support you in your embedded system development, absorbing the peaks in your workload seamlessly.": "Wir unterstützen Sie bei der Entwicklung von Embedded-Systemen und übernehmen nahtlos Arbeitsspitzen.",
+  "MIRA Empowering <br/>Future with <br/>Digital Solutions!": "MIRA Stärkt <br/>die Zukunft mit <br/>digitalen Lösungen!",
+  "A Gateway to Digital Solutions": "Ein Tor zu digitalen Lösungen",
+  "14": "14",
+  "Years of Digital Solutions Experience": "Jahre Erfahrung in digitalen Lösungen",
+  "Our Mission": "Unsere Mission",
+  "MIRA has been a reliable and trusted partner for big and small businesses in the realm of embedded systems for years. With our innovative approach and skilled professionals, we deliver prompt solutions that best cater to your business needs. Our aim is to help our customers achieve their goals and enhance their competitiveness. We strive to make a positive contribution to society with our solutions. We are convinced that with our mission and vision, we can play a significant role in the future of the industry.": "MIRA ist seit Jahren ein verlässlicher und vertrauenswürdiger Partner für große und kleine Unternehmen im Bereich der Embedded-Systeme. Mit unserem innovativen Ansatz und unseren qualifizierten Fachleuten liefern wir schnelle Lösungen, die den Bedürfnissen Ihres Unternehmens am besten gerecht werden. Unser Ziel ist es, unseren Kunden zu helfen, ihre Ziele zu erreichen und ihre Wettbewerbsfähigkeit zu steigern. Wir bemühen uns, mit unseren Lösungen einen positiven Beitrag zur Gesellschaft zu leisten. Wir sind überzeugt, dass wir mit unserer Mission und Vision eine bedeutende Rolle in der Zukunft der Branche spielen können.",
+  "Our Basic Attitude": "Unsere Grundhaltung",
+  "<strong>Innovation:</strong/> We are constantly looking for new and innovative solutions to the challenges of tomorrow’s industry. <br /> <strong>Quality:</strong/> We set the highest quality standards in the development and implementation of our solutions. <br /> <strong>Reliability:</strong/> We are a reliable partner for our customers and always deliver the agreed services. <br /> <strong>Teamwork:</strong/> We work closely with our customers and partners to develop the best solutions together.": "<strong>Innovation:</strong/> Wir suchen ständig nach neuen und innovativen Lösungen für die Herausforderungen der Industrie von morgen. <br /> <strong>Qualität:</strong/> Wir setzen die höchsten Qualitätsstandards bei der Entwicklung und Umsetzung unserer Lösungen. <br /> <strong>Zuverlässigkeit:</strong/> Wir sind ein verlässlicher Partner für unsere Kunden und liefern stets die vereinbarten Leistungen. <br /> <strong>Teamarbeit:</strong/> Wir arbeiten eng mit unseren Kunden und Partnern zusammen, um gemeinsam die besten Lösungen zu entwickeln.",
+  "More About Us": "Mehr über uns",
+  "Embedded Engineering": "Embedded Engineering",
+  "We develop electronic systems for you that are embedded in other devices, such as cars, airplanes, household appliances and cell phones.": "Wir entwickeln elektronische Systeme für Sie, die in andere Geräte eingebettet sind, wie Autos, Flugzeuge, Haushaltsgeräte und Mobiltelefone.",
+  "Highest Expectations": "Höchste Erwartungen",
+  "Our embedded engineering team meets the highest expectations by delivering reliable and high-performance systems tailored to your needs.": "Unser Embedded-Engineering-Team erfüllt höchste Erwartungen, indem es zuverlässige und leistungsstarke Systeme liefert, die auf Ihre Bedürfnisse zugeschnitten sind.",
+  "High speed processing": "Hochgeschwindigkeitsverarbeitung",
+  "Energy efficient solutions": "Energieeffiziente Lösungen",
+  "Advanced security meaures": "Fortschrittliche Sicherheitsmaßnahmen",
+  "Our embedded engineering team is dedicated to creating innovative and reliable solutions for a wide range of applications. With extensive expertise in designing, developing, and deploying embedded systems, we ensure high performance and seamless integration for industries such as automotive, medical, industrial automation, and consumer electronics.": "Unser Embedded-Engineering-Team widmet sich der Entwicklung innovativer und zuverlässiger Lösungen für eine Vielzahl von Anwendungen. Mit umfangreicher Erfahrung in der Entwicklung, Gestaltung und Implementierung von Embedded-Systemen gewährleisten wir hohe Leistung und nahtlose Integration in Branchen wie Automobil, Medizin, industrielle Automatisierung und Unterhaltungselektronik.",
+  "Battery Management": "Batteriemanagement",
+  "We develop software for you that monitors and controls batteries to increase their service life, performance and safety.": "Wir entwickeln Software für Sie, die Batterien überwacht und steuert, um ihre Lebensdauer, Leistung und Sicherheit zu erhöhen.",
+  "Our battery management systems are engineered to enhance the performance, longevity, and safety of your batteries.": "Unsere Batteriemanagementsysteme sind darauf ausgelegt, die Leistung, Lebensdauer und Sicherheit Ihrer Batterien zu verbessern.",
+  "Robust protections against overcharging": "Robuster Schutz gegen Überladung",
+  "Maximum energy usage": "Maximale Energienutzung",
+  "Meeting industry standards": "Einhaltung von Industriestandards",
+  "Our battery management systems are designed to maximize the performance, longevity, and safety of your batteries. Leveraging advanced technologies and innovative engineering, we develop comprehensive solutions that monitor and control battery operations in real-time.": "Unsere Batteriemanagementsysteme sind darauf ausgelegt, die Leistung, Lebensdauer und Sicherheit Ihrer Batterien zu maximieren. Durch den Einsatz fortschrittlicher Technologien und innovativer Ingenieurskunst entwickeln wir umfassende Lösungen, die den Betrieb der Batterien in Echtzeit überwachen und steuern.",
+  "Mobile App Development": "Mobile App Entwicklung",
+  "We develop software applications for mobile devices such as smartphones and tablets.": "Wir entwickeln Softwareanwendungen für mobile Geräte wie Smartphones und Tablets.",
+  "Mobile app development revolutionizes how businesses connect with their customers, empowering seamless interactions and delivering unparalleled convenience.": "Die Entwicklung von mobilen Apps revolutioniert die Art und Weise, wie Unternehmen mit ihren Kunden in Verbindung treten, ermöglicht nahtlose Interaktionen und bietet beispiellosen Komfort.",
+  "Compelling experiences": "Fesselnde Erlebnisse",
+  "Robust measures to protect user data": "Robuste Maßnahmen zum Schutz der Benutzerdaten",
+  "Fast, responsive apps": "Schnelle, reaktionsschnelle Apps",
+  "Mobile app development is the cornerstone of modern digital interaction, shaping how businesses engage with their audiences and deliver value. Our team specializes in crafting immersive, intuitive, and feature-rich mobile experiences across platforms.": "Die Entwicklung von mobilen Apps ist der Eckpfeiler der modernen digitalen Interaktion und prägt die Art und Weise, wie Unternehmen mit ihrem Publikum interagieren und Wert schaffen. Unser Team ist auf die Erstellung eindrucksvoller, intuitiver und funktionsreicher mobiler Erlebnisse auf verschiedenen Plattformen spezialisiert.",
+  "Hardware and Firmware development": "Hardware- und Firmware-Entwicklung",
+  "We develop and maintain hardware and software used in electronic devices.": "Wir entwickeln und pflegen Hardware und Software, die in elektronischen Geräten verwendet werden.",
+  "Hardware and firmware development form the foundation of technological innovation, powering the seamless integration of digital solutions. ": "Hardware- und Firmware-Entwicklung bilden das Fundament technologischer Innovationen und ermöglichen die nahtlose Integration digitaler Lösungen.",
+  "Seamless integration with existing systems": "Nahtlose Integration mit bestehenden Systemen",
+  "Robust security measures": "Robuste Sicherheitsmaßnahmen",
+  "Rigorous testing and validation": "Strenge Tests und Validierung",
+  "End-to-End Product Development": "End-to-End Produktentwicklung",
+  "We develop products for you from conception to market launch.": "Wir entwickeln Produkte für Sie von der Konzeption bis zum Markteintritt.",
+  "End-to-end product development is the cornerstone of innovation, encompassing every stage from conception to delivery.": "Die End-to-End-Produktentwicklung ist der Eckpfeiler der Innovation und umfasst jede Phase von der Konzeption bis zur Lieferung.",
+  "Streamlined workflows and optimized resources": "Optimierte Arbeitsabläufe und Ressourcen",
+  "Environmentally friendly practices": "Umweltfreundliche Praktiken",
+  "Prioritizing user needs and preferences": "Priorisierung der Benutzerbedürfnisse und -präferenzen",
+  "End-to-end product development encompasses the entire lifecycle of bringing a concept to market, from initial ideation to final deployment. At our core, we specialize in guiding businesses through this comprehensive journey, leveraging our expertise across design, engineering, and manufacturing domains.": "Die End-to-End-Produktentwicklung umfasst den gesamten Lebenszyklus der Markteinführung eines Konzepts, von der ersten Ideenfindung bis zur endgültigen Bereitstellung. Im Kern spezialisieren wir uns darauf, Unternehmen durch diese umfassende Reise zu führen und unsere Expertise in den Bereichen Design, Engineering und Fertigung zu nutzen.",
+  "Machine Learning": "Maschinelles Lernen",
+  "We develop machine learning software that optimizes decision-making processes to enhance efficiency.": "Wir entwickeln Software für maschinelles Lernen, die Entscheidungsprozesse optimiert, um die Effizienz zu steigern.",
+  "Machine learning represents the pinnacle of data-driven intelligence, empowering systems to analyze vast amounts of data, uncover valuable insights, and make autonomous decisions. ": "Maschinelles Lernen stellt den Höhepunkt datengestützter Intelligenz dar und ermöglicht es Systemen, riesige Datenmengen zu analysieren, wertvolle Erkenntnisse zu gewinnen und autonome Entscheidungen zu treffen.",
+  "High accuracy levels": "Hohe Genauigkeit",
+  "Transparency and interpretability of machine learning models": "Transparenz und Interpretierbarkeit von Modellen des maschinellen Lernens",
+  "Upholding ethical standards": "Ethische Standards wahren",
+  "Machine learning is revolutionizing the way we perceive and interact with data, empowering systems to learn from experience, adapt to new information, and make informed decisions autonomously. At the forefront of this transformation, our team specializes in harnessing the power of machine learning to unlock insights, drive innovation, and solve complex problems across industries.": "Maschinelles Lernen revolutioniert die Art und Weise, wie wir Daten wahrnehmen und mit ihnen interagieren, indem es Systemen ermöglicht, aus Erfahrungen zu lernen, sich an neue Informationen anzupassen und eigenständig informierte Entscheidungen zu treffen. An vorderster Front dieser Transformation spezialisiert sich unser Team darauf, die Macht des maschinellen Lernens zu nutzen, um Erkenntnisse zu gewinnen, Innovationen voranzutreiben und komplexe Probleme in verschiedenen Branchen zu lösen.",
+  "Do you know that?": "Wusstest du das?",
+  "Nobody takes ownership of the product?": "Niemand übernimmt Verantwortung für das Produkt?",
+  "You're worried that your team isn't capable of building your product. They are not sure if they can achieve the vision for the product. We would be happy to support you with this.": "Sie sind besorgt, dass Ihr Team nicht in der Lage ist, Ihr Produkt zu entwickeln. Sie sind sich nicht sicher, ob sie die Vision für das Produkt erreichen können. Wir würden uns freuen, Sie dabei zu unterstützen.",
+  "Nobody feels responsible for the results?": "Niemand fühlt sich verantwortlich für die Ergebnisse?",
+  "This means you need a partner who understands your technology and is able to solve problems and develop new features without you having to constantly ask. We would be happy to support you with this": "Das bedeutet, dass Sie einen Partner benötigen, der Ihre Technologie versteht und in der Lage ist, Probleme zu lösen und neue Funktionen zu entwickeln, ohne dass Sie ständig nachfragen müssen. Wir würden uns freuen, Sie dabei zu unterstützen.",
+  "Don't have time for strategy?": "Keine Zeit für Strategie?",
+  "You want to shift your focus from operational product management to strategic decisions because you believe you can have a greater impact on the success of the product. We would be happy to support you with this.": "Sie möchten Ihren Fokus vom operativen Produktmanagement auf strategische Entscheidungen verlagern, weil Sie glauben, einen größeren Einfluss auf den Erfolg des Produkts zu haben. Wir würden uns freuen, Sie dabei zu unterstützen.",
+  "They require a lot of communication effort, which slows down the project": "Sie erfordern viel Kommunikationsaufwand, was das Projekt verlangsamt",
+  "In fact, if a project is poorly planned and managed, it can lead to communication problems and delays. We can prevent this for you.": "Wenn ein Projekt schlecht geplant und verwaltet wird, kann es zu Kommunikationsproblemen und Verzögerungen kommen. Wir können dies für Sie verhindern.",
+  "Experts Team Members": "Experten-Team-Mitglieder",
+  "We do awesome Services <br>for our clients.": "Wir bieten großartige Dienstleistungen <br>für unsere Kunden.",
+  "Raza Abbas": "Raza Abbas",
+  "CEO": "CEO",
+  "R": "R",
+  "Age": "Alter",
+  "34 years": "34 Jahre",
+  "Location": "Standort",
+  "Waitzstraße 92, 24118, Kiel": "Waitzstraße 92, 24118, Kiel",
+  "Email": "E-Mail",
+  "Phone No": "Telefonnummer",
+  "7 SOTD <br> 17 HONORABLE MENTION <br> 3 MOBILE EXCELLENCE": "7 SOTD <br> 17 HONORABLE MENTION <br> 3 MOBILE EXCELLENCE",
+  "31": "31",
+  "11 SOTD <br> 5 SPECIAL KUDOS": "11 SOTD <br> 5 SPECIAL KUDOS",
+  "16": "16",
+  "AWARD 2019 <br> 1 GLOBAL COMPETITION": "AWARD 2019 <br> 1 GLOBAL COMPETITION",
+  "20": "20",
+  "He is the founder and CEO of Mira Dev, with over a decade of experience in both software and hardware development. His vision revolves around bridging the gap between humanity and the tech industry, a mission he diligently pursues each day.": "Er ist der Gründer und CEO von Mira Dev mit über einem Jahrzehnt Erfahrung in der Software- und Hardwareentwicklung. Seine Vision dreht sich darum, die Kluft zwischen der Menschheit und der Technologiebranche zu überbrücken, eine Mission, die er täglich mit Hingabe verfolgt.",
+  "Abbas Madad Naqvi": "Abbas Madad Naqvi",
+  "SAP B1 (HOD)": "SAP B1 (HOD)",
+  "A": "A",
+  "35 years": "35 Jahre",
+  "Abbas leads the development of ERP systems, bringing his expertise in ERP software to the forefront. With vast experience in SAPB1, he has successfully completed numerous projects worldwide.": "Abbas leitet die Entwicklung von ERP-Systemen und bringt seine Expertise in ERP-Software an die Spitze. Mit umfangreicher Erfahrung in SAPB1 hat er weltweit zahlreiche Projekte erfolgreich abgeschlossen.",
+  "Irtaza Madad": "Irtaza Madad",
+  "Technical Project Manager": "Technischer Projektmanager",
+  "I": "I",
+  "27 years": "27 Jahre",
+  "G-13, Islamabad, Pakistan": "G-13, Islamabad, Pakistan",
+  "Irtaza is a Technical Project Manager specializing in software solutions and IoT development, adept at navigating the complexities of networks and emerging technologies. With 4 to 5 years of experience, he brings a wealth of expertise to the table.": "Irtaza ist technischer Projektmanager, spezialisiert auf Softwarelösungen und IoT-Entwicklung, der sich in den komplexen Netzwerken und neuen Technologien auskennt. Mit 4 bis 5 Jahren Erfahrung bringt er einen reichen Erfahrungsschatz mit.",
+  "Testimonials": "Kundenbewertungen",
+  "Rating from all Client's": "Bewertungen von allen Kunden",
+  "Anneliese Ruff": "Anneliese Ruff",
+  "Development": "Entwicklung",
+  "Working with Mira Elektronikentwicklung has been an absolute pleasure.<br/>Their team of developers are truly impressive.<br/>Their talent and sharp skills consistently deliver outstanding results. Big thanks to Raza Abbas for his invaluable support whenever we need it. Highly recommended!": "Die Zusammenarbeit mit Mira Elektronikentwicklung war eine absolute Freude.<br/>Ihr Entwicklerteam ist wirklich beeindruckend.<br/>Ihr Talent und ihre scharfsinnigen Fähigkeiten liefern konstant herausragende Ergebnisse. Vielen Dank an Raza Abbas für seine unschätzbare Unterstützung, wann immer wir sie brauchen. Sehr zu empfehlen!",
+  "Frederick Leon": "Frederick Leon",
+  "Code Quality": "Code-Qualität",
+  "(We've been partnering with Mira Elektronikentwicklung for quite some time now, and their support has been instrumental in our testing and system management. Highly recommended for their expertise in software system development – they're truly specialists in their field).": "(Wir arbeiten nun schon seit einiger Zeit mit Mira Elektronikentwicklung zusammen, und ihre Unterstützung war maßgeblich für unser Testen und Systemmanagement. Sehr zu empfehlen für ihre Expertise in der Softwareentwicklung – sie sind echte Spezialisten auf ihrem Gebiet).",
+  "Send Us Your <br/><strong>Bright Ideas</strong>": "Schicken Sie uns Ihre <br/><strong>hellen Ideen</strong>",
+  "Get in Touch": "Kontakt aufnehmen",
+  "<a href=\"mailto:info@mira-dev.de\" target=\"_blank\">info@mira-dev.de</a><p>Waitzstraße 92 24118 Kiel <br />+49 1522 6426128</p>": "<a href=\"mailto:info@mira-dev.de\" target=\"_blank\">info@mira-dev.de</a><p>Waitzstraße 92 24118 Kiel <br />+49 1522 6426128</p>",
+  "Facebook": "Facebook",
+  "Instagram": "Instagram",
+  "Twitter": "Twitter",
+  "LinkedIn": "LinkedIn",
+  "Fantastic and Premium Clients": "Fantastische und Premium-Kunden",
+  "We Have Had the Pleasure of Working with Some Clients": "Wir hatten das Vergnügen, mit einigen Kunden zu arbeiten",
+  "Let’s Chat! Let’s Build Something <br /> Awesome Together": "Lassen Sie uns reden! Lassen Sie uns etwas <br /> Großartiges zusammen bauen",
+  "Lets Start Project": "Lass uns ein Projekt starten",
+  "From the moment our company was founded, we have helped our clients find exceptional solutions": "Seit der Gründung unseres Unternehmens haben wir unseren Kunden geholfen, außergewöhnliche Lösungen zu finden ",
+  "for their businesses": "für ihr Geschäft",
+  "Projects": "Projekte",
+  "Waitzstraße 92 24118 Kiel": "Waitzstraße 92 24118 Kiel",
+  "Copyright © 2024 Mira All Rights Reserved.": "Copyright © 2024 Mira Alle Rechte vorbehalten.",
+  "Our Team": "Unser Team",
+  "Meet our creative company family": "Lernen Sie unsere kreative Unternehmensfamilie kennen",
+  "Our Services": "Unsere Dienstleistungen",
+  "Our values and vaulted us to the top of our industry.": "Unsere Werte haben uns an die Spitze unserer Branche geführt.",
+  "What we do": "Was wir tun",
+  "We’re a full-service agency": "Wir sind eine Full-Service-Agentur",
+  "MI Park": "MI Park",
+  "MIRA Empowering Future with Digital Solutions!": "MIRA stärkt die Zukunft mit digitalen Lösungen!",
+  "Welcome to Onovo": "Willkommen bei Onovo",
+  "We are a digital agency,": "Wir sind eine digitale Agentur,",
+  "passionate about building": "leidenschaftlich dabei, aufzubauen",
+  "and designing brands": "und Marken zu gestalten",
+  "From the moment our company was founded, we have helped our clients find": "Seit der Gründung unseres Unternehmens haben wir unseren Kunden geholfen,",
+  "exceptional solutions for their businesses": "außergewöhnliche Lösungen für ihr Geschäft zu finden",
+  "creating memorable brands and digital products. Our expertise grows with each year, and our accumulated experience.": "denkwürdige Marken und digitale Produkte zu schaffen. Unsere Expertise wächst mit jedem Jahr, und unsere gesammelte Erfahrung.",
+  "Team members": "Teammitglieder",
+  "Completed projects": "Abgeschlossene Projekte",
+  "M": "M",
+  "Lines of code": "Zeilen Code",
+  "Our story unfolds at MIRA Dev, where a cohesive team of software experts is fueled by a collective passion for innovative software solutions. Specializing in web apps, mobile apps, but also in enterprise resource planning (ERP), SAP Business One (SAPB1), and Point of Sale (POS) systems, we stand as pioneers in reshaping the digital landscape of business operations <br /> Though it's been just a year since we embarked on the MIRA Dev journey, we've already achieved remarkable milestones. However, our vision extends far beyond these accomplishments. We are poised to break new ground, pushing the boundaries of innovation and setting new standards in the software industry. Our commitment to excellence drives us forward as we continue to evolve, adapt, and conquer new horizons. With every challenge we overcome and every goal we surpass, we reaffirm our dedication to shaping a brighter future for MIRA Dev and the world of software solutions. <br /> Our journey at MIRA Dev is marked by a steadfast commitment to growth and excellence. What began as a close-knit group of professionals has blossomed into a thriving community, dedicated to pushing the boundaries of software innovation.": "Unsere Geschichte entfaltet sich bei MIRA Dev, wo ein kohärentes Team von Software-Experten von einer gemeinsamen Leidenschaft für innovative Softwarelösungen angetrieben wird. Wir sind auf Web-Apps, mobile Apps sowie auf Enterprise Resource Planning (ERP), SAP Business One (SAPB1) und Point of Sale (POS) Systeme spezialisiert und stehen als Pioniere an der Spitze der digitalen Neugestaltung von Geschäftsabläufen <br /> Obwohl es erst ein Jahr her ist, dass wir unsere Reise bei MIRA Dev begonnen haben, haben wir bereits bemerkenswerte Meilensteine erreicht. Unsere Vision geht jedoch weit über diese Errungenschaften hinaus. Wir sind bereit, neue Wege zu gehen, die Grenzen der Innovation zu verschieben und neue Maßstäbe in der Softwarebranche zu setzen. Unser Streben nach Exzellenz treibt uns weiter an, während wir uns weiterentwickeln, anpassen und neue Horizonte erobern. Mit jeder Herausforderung, die wir meistern, und jedem Ziel, das wir übertreffen, bekräftigen wir unser Engagement, eine bessere Zukunft für MIRA Dev und die Welt der Softwarelösungen zu gestalten. <br /> Unsere Reise bei MIRA Dev ist geprägt von einem festen Engagement für Wachstum und Exzellenz. Was als ein eng verbundener Kreis von Fachleuten begann, hat sich zu einer florierenden Gemeinschaft entwickelt, die sich der Weiterentwicklung der Software-Innovation verschrieben hat.",
+  "Driven by a deep-seated trust and shared vision, we forge ahead with each project, crafting bespoke solutions that empower businesses and individuals alike. With a focus on real-time functionality and cutting-edge technology, we elevate processes and drive tangible results. <br /> At MIRA Dev, we understand the power of SEO in enhancing online visibility and driving organic traffic. By optimizing every aspect of our solutions, we ensure that our clients stand out in the digital landscape, commanding attention and achieving their goals. Join us on our journey as we continue to script a compelling narrative for MIRA Dev, shaping the future of software solutions with innovation, expertise, and a touch of passion and dedication.": "Angetrieben von einem tief verwurzelten Vertrauen und einer gemeinsamen Vision, gehen wir mit jedem Projekt voran und entwickeln maßgeschneiderte Lösungen, die Unternehmen und Einzelpersonen gleichermaßen stärken. Mit einem Fokus auf Echtzeitfunktionalität und modernster Technologie steigern wir Prozesse und erzielen greifbare Ergebnisse. <br /> Bei MIRA Dev verstehen wir die Macht von SEO zur Verbesserung der Online-Sichtbarkeit und zur Steigerung des organischen Verkehrs. Indem wir jeden Aspekt unserer Lösungen optimieren, stellen wir sicher, dass unsere Kunden in der digitalen Landschaft hervorstechen, Aufmerksamkeit erlangen und ihre Ziele erreichen. Begleiten Sie uns auf unserer Reise, während wir weiterhin eine fesselnde Erzählung für MIRA Dev schreiben und die Zukunft der Softwarelösungen mit Innovation, Expertise und einer Prise Leidenschaft und Engagement gestalten.",
+  "Our Team is The Difference. <br/>Our Chemistry is The Spark.": "Unser Team ist der Unterschied. <br/>Unsere Chemie ist der Funke.",
+  "Meet Our Company Family": "Lernen Sie unsere Unternehmensfamilie kennen",
+  "Client’s FAQ": "Häufig gestellte Fragen der Kunden",
+  "Solving Business Problems <br>is An Everyday": "Geschäftsprobleme lösen <br>ist ein Alltag",
+  "Secure Management and Workforce?": "Sichere Verwaltung und Arbeitskräfte?",
+  "Q1. What measures do you have in place to ensure the security of our data and information?": "Q1. Welche Maßnahmen haben Sie ergriffen, um die Sicherheit unserer Daten und Informationen zu gewährleisten?",
+  "We employ a multi-layered approach to data security, including encryption, access controls, and regular security audits. Our systems are designed to meet or exceed industry standards for data protection.": "Wir verwenden einen mehrschichtigen Ansatz zur Datensicherheit, einschließlich Verschlüsselung, Zugriffskontrollen und regelmäßigen Sicherheitsüberprüfungen. Unsere Systeme sind darauf ausgelegt, die Branchenstandards für Datenschutz zu erfüllen oder zu übertreffen.",
+  "Q2. How do you ensure that our sensitive information is protected from unauthorized access?": "Q2. Wie stellen Sie sicher, dass unsere sensiblen Informationen vor unbefugtem Zugriff geschützt sind?",
+  "We utilize advanced authentication methods, such as two-factor authentication to restrict access to sensitive information. Additionally, our security protocols are continuously monitored and updated to address emerging threats.": "Wir verwenden fortschrittliche Authentifizierungsmethoden, wie z. B. Zwei-Faktor-Authentifizierung, um den Zugriff auf sensible Informationen zu beschränken. Darüber hinaus werden unsere Sicherheitsprotokolle kontinuierlich überwacht und aktualisiert, um auf neue Bedrohungen zu reagieren.",
+  "Q3. Can you provide details about your company's security protocols and certifications?": "Q3. Können Sie Details zu den Sicherheitsprotokollen und Zertifikaten Ihres Unternehmens bereitstellen?",
+  "We adhere to rigorous security protocols based on industry best practices and standards, such as ISO 27001 and SOC 2. Our commitment to security is further demonstrated through our certifications and compliance with relevant regulatory requirements.": "Wir halten uns an strenge Sicherheitsprotokolle, die auf den besten Branchenpraktiken und -standards wie ISO 27001 und SOC 2 basieren. Unser Engagement für Sicherheit wird weiter durch unsere Zertifizierungen und die Einhaltung relevanter gesetzlicher Anforderungen gezeigt.",
+  "Q4. How do you handle security breaches or incidents?": "Q4. Wie gehen Sie mit Sicherheitsverletzungen oder Vorfällen um?",
+  "In the event of a security breach or incident, we have established incident response procedures to swiftly mitigate the threat and minimize the impact on our clients. Our dedicated team of security experts conducts thorough investigations and implements remediation measures to prevent future occurrences.": "Im Falle einer Sicherheitsverletzung oder eines Vorfalls haben wir festgelegte Verfahren zur Vorfallreaktion, um die Bedrohung schnell zu mildern und die Auswirkungen auf unsere Kunden zu minimieren. Unser engagiertes Team von Sicherheitsexperten führt gründliche Untersuchungen durch und implementiert Maßnahmen zur Behebung, um zukünftige Vorfälle zu verhindern.",
+  "Q5. What steps do you take to ensure the safety and security of our employees and contractors?": "Q5. Welche Schritte unternehmen Sie, um die Sicherheit und den Schutz unserer Mitarbeiter und Auftragnehmer zu gewährleisten?",
+  "Employee and contractor safety is paramount to us. We provide comprehensive training on security awareness and emergency response procedures. Additionally, we conduct regular assessments of workplace safety and security measures to identify and address any vulnerabilities.": "Die Sicherheit unserer Mitarbeiter und Auftragnehmer hat für uns oberste Priorität. Wir bieten umfassende Schulungen zu Sicherheitsbewusstsein und Notfallmaßnahmen an. Darüber hinaus führen wir regelmäßige Bewertungen der Sicherheits- und Schutzmaßnahmen am Arbeitsplatz durch, um mögliche Schwachstellen zu identifizieren und zu beheben.",
+  "Q6. How often do you conduct security audits and assessments?": "Q6. Wie oft führen Sie Sicherheitsüberprüfungen und -bewertungen durch?",
+  "We conduct regular security audits and assessments to evaluate the effectiveness of our security controls and identify areas for improvement. These audits are conducted by both internal teams and third-party security experts to ensure impartiality and thoroughness.": "Wir führen regelmäßige Sicherheitsüberprüfungen und -bewertungen durch, um die Wirksamkeit unserer Sicherheitskontrollen zu bewerten und Verbesserungspotenziale zu identifizieren. Diese Prüfungen werden sowohl von internen Teams als auch von externen Sicherheitsexperten durchgeführt, um Unparteilichkeit und Gründlichkeit sicherzustellen.",
+  "Q7. What role does employee training play in maintaining a secure work environment?": "Q7. Welche Rolle spielt die Schulung der Mitarbeiter bei der Aufrechterhaltung eines sicheren Arbeitsumfelds?",
+  "Employee training is integral to maintaining a secure work environment. We provide ongoing training and awareness programs to educate employees about cybersecurity best practices, data handling procedures, and potential security threats.": "Die Schulung der Mitarbeiter ist entscheidend für die Aufrechterhaltung eines sicheren Arbeitsumfelds. Wir bieten fortlaufende Schulungen und Sensibilisierungsprogramme an, um die Mitarbeiter über bewährte Methoden der Cybersicherheit, Datenhandhabungsverfahren und potenzielle Sicherheitsbedrohungen aufzuklären.",
+  "Q8. How do you address physical security concerns at our facilities or workplaces?": "Q8. Wie gehen Sie mit physischen Sicherheitsbedenken an unseren Einrichtungen oder Arbeitsplätzen um?",
+  "We implement comprehensive physical security measures, including access controls, surveillance systems, and perimeter security, to protect our facilities and workplaces. Our security personnel are trained to respond effectively to any security incidents or breaches.": "Wir implementieren umfassende physische Sicherheitsmaßnahmen, einschließlich Zugangskontrollen, Überwachungssystemen und Perimeterschutz, um unsere Einrichtungen und Arbeitsplätze zu schützen. Unser Sicherheitspersonal ist geschult, um effektiv auf Sicherheitsvorfälle oder Verstöße zu reagieren.",
+  "Q9. Can you explain your approach to risk management and mitigation?": "Q9. Können Sie Ihren Ansatz für Risikomanagement und -minderung erklären?",
+  "Our approach to risk management involves identifying potential security risks, assessing their likelihood and potential impact, and implementing proactive measures to mitigate or eliminate these risks. We regularly review and update our risk management strategies to adapt to evolving threats.": "Unser Ansatz für Risikomanagement umfasst die Identifizierung potenzieller Sicherheitsrisiken, die Bewertung ihrer Wahrscheinlichkeit und möglichen Auswirkungen sowie die Umsetzung proaktiver Maßnahmen zur Minderung oder Eliminierung dieser Risiken. Wir überprüfen und aktualisieren regelmäßig unsere Risikomanagementstrategien, um uns an sich entwickelnde Bedrohungen anzupassen.",
+  "Q10. What type of background checks or screening processes do you implement for your workforce?": "Q10. Welche Art von Hintergrundprüfungen oder Screening-Prozessen führen Sie für Ihre Mitarbeiter durch?",
+  "We conduct thorough background checks and screening processes for all employees and contractors, including criminal background checks, employment verification, and reference checks. These measures help ensure the integrity and trustworthiness of our workforce.": "Wir führen gründliche Hintergrundprüfungen und Screening-Prozesse für alle Mitarbeiter und Auftragnehmer durch, einschließlich strafrechtlicher Hintergrundprüfungen, Beschäftigungsüberprüfungen und Referenzprüfungen. Diese Maßnahmen helfen sicherzustellen, dass unsere Arbeitskräfte integr und vertrauenswürdig sind.",
+  "Project management and Tracking": "Projektmanagement und Verfolgung",
+  "Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.": "Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.",
+  "Q1. Which project management tools do you use?": "Q1. Welche Projektmanagement-Tools verwenden Sie?",
+  "We primarily use JIRA for project management, but we're also open to exploring other tools based on project requirements.": "Wir verwenden hauptsächlich JIRA für das Projektmanagement, sind jedoch offen, auch andere Tools je nach Projektanforderungen zu erkunden.",
+  "Q2. How do you ensure effective project communication?": "Q2. Wie stellen Sie eine effektive Projektkommunikation sicher?",
+  "We maintain open channels of communication through regular meetings, emails, and collaboration tools like Slack or Microsoft Teams.": "Wir halten offene Kommunikationskanäle durch regelmäßige Besprechungen, E-Mails und Kollaborationstools wie Slack oder Microsoft Teams.",
+  "Q3. What's your approach to project tracking?": "Q3. Wie gehen Sie mit der Projektverfolgung um?",
+  "We use a combination of Gantt charts, task boards, and progress reports to track project milestones and ensure timely delivery.": "Wir verwenden eine Kombination aus Gantt-Diagrammen, Aufgabenboards und Fortschrittsberichten, um Projektmeilensteine zu verfolgen und eine termingerechte Lieferung sicherzustellen.",
+  "Q4. How do you handle project deadlines?": "Q4. Wie gehen Sie mit Projektfristen um?",
+  "We set realistic deadlines and regularly monitor progress to identify potential delays early. If needed, we adjust resources or scope to meet deadlines.": "Wir setzen realistische Fristen und überwachen regelmäßig den Fortschritt, um potenzielle Verzögerungen frühzeitig zu erkennen. Wenn nötig, passen wir Ressourcen oder Umfang an, um die Fristen einzuhalten.",
+  "Q5. What measures do you take to manage project risks?": "Q5. Welche Maßnahmen ergreifen Sie zur Verwaltung von Projektrisiken?",
+  "We conduct risk assessments at the start of the project and develop mitigation strategies. Throughout the project, we monitor risks and take proactive measures to address them.": "Wir führen zu Beginn des Projekts Risikoanalysen durch und entwickeln Milderungsstrategien. Während des gesamten Projekts überwachen wir Risiken und ergreifen proaktive Maßnahmen, um diese zu adressieren.",
+  "Q6. How do you allocate resources for projects?": "Q6. Wie ordnen Sie Ressourcen für Projekte zu?",
+  "Resource allocation is based on project requirements, team availability, and skillsets. We strive for optimal resource utilization to maximize project efficiency.": "Die Ressourcenzuteilung basiert auf den Projektanforderungen, der Verfügbarkeit des Teams und den Fähigkeiten. Wir streben nach optimaler Ressourcennutzung, um die Effizienz des Projekts zu maximieren.",
+  "Q7. Can you describe your project planning process?": "Q7. Können Sie Ihren Projektplanungsprozess beschreiben?",
+  "Our project planning process involves defining project goals, creating a project timeline, identifying tasks and dependencies, and assigning responsibilities.": "Unser Projektplanungsprozess umfasst die Definition der Projektziele, die Erstellung eines Projektzeitplans, die Identifikation von Aufgaben und Abhängigkeiten sowie die Zuweisung von Verantwortlichkeiten.",
+  "Q8. What metrics do you use to measure project success?": "Q8. Welche Kennzahlen verwenden Sie zur Messung des Projekterfolgs?",
+  "We use metrics such as project completion time, budget adherence, stakeholder satisfaction, and quality of deliverables to gauge project success.": "Wir verwenden Kennzahlen wie die Projektdauer, Budgeteinhaltung, Zufriedenheit der Stakeholder und die Qualität der Lieferungen, um den Projekterfolg zu messen.",
+  "Q9. How do you adapt to changes during a project?": "Q9. Wie gehen Sie mit Änderungen während eines Projekts um?",
+  "We maintain flexibility in our project plans and are prepared to adjust timelines, resources, or scope as needed to accommodate changes and maintain project momentum.": "Wir behalten Flexibilität in unseren Projektplänen und sind bereit, Zeitpläne, Ressourcen oder den Umfang nach Bedarf anzupassen, um Änderungen zu berücksichtigen und das Projekt voranzutreiben.",
+  "Send Us A Message": "Senden Sie uns eine Nachricht",
+  "Feel some love, to see what we can do....!": "Spüre etwas Liebe, um zu sehen, was wir tun können....!",
+  "Then let us know about it and we can see what we can do to help": "Lassen Sie es uns wissen, und wir schauen, was wir tun können, um zu helfen",
+  "Contact Info": "Kontaktinformationen",
+  "Send Message": "Nachricht senden",
+  "Hardware": "Hardware",
+  "View Project": "Projekt anzeigen",
+  "Smart Inventer Design": "Smart Inverter Design",
+  "Laser Pointing and Object Detection System": "Laser-Zielsystem und Objekterkennungssystem",
+  "TECH AT IT'S BEST": "TECHNOLOGIE IN BESTFORM",
+  "Design for Innovation, Build for Performance, Secure Every Layer": "Design für Innovation, gebaut für Leistung, sichere jede Schicht",
+  "Visit Website": "Website besuchen",
+  "Full Name": "Vollständiger Name",
+  "Email Address": "E-Mail-Adresse",
+  "Phone Number": "Telefonnummer",
+  "Message": "Nachricht",
+  "Privacy Policy":"Datenschutzrichtlinie",
+  "Compact LoRaWAN device for smart parking, STM32WL55 integrated with MQTT for efficiency, power efficiency, advanced sensors for precision": "Kompaktes LoRaWAN-Gerät für intelligentes Parken, STM32WL55 integriert mit MQTT für Effizienz, Energieeffizienz, fortschrittliche Sensoren für Präzision",
+  "Client:": "Kunde:",
+  "Our Product": "Unser Produkt",
+  "Start:": "Start:",
+  "Dec 18, 2022": "18. Dez. 2022",
+  "Ending:": "Ende:",
+  "Mar 18, 2023": "18. März 2023",
+  "Project Result": "Projektergebnis",
+  "<ul><li>Developed a robust and compact LoRaWAN-based device for smart car parking management</li><li>Integratedsensors for accurate detection of car presence, providing real-time occupancy data</li><li>Leveraged LoRaWAN technology for wide-range communication with minimal power consumption</li><li>Established seamless connectivity with a mobile app for real-time monitoring and management of parking spaces</li><li>Utilized The Things Network (TTN) for seamless device provisioning, configuration, and data management</li></ul>": "<ul><li>Entwickelt ein robustes und kompaktes LoRaWAN-basiertes Gerät für das intelligente Parkmanagement</li><li>Integrierte Sensoren zur genauen Erkennung der Anwesenheit von Autos und Bereitstellung von Echtzeitbelegungsdaten</li><li>Nutzen von LoRaWAN-Technologie für weiträumige Kommunikation bei minimalem Stromverbrauch</li><li>Nahtlose Verbindung mit einer mobilen App für Echtzeitüberwachung und Verwaltung von Parkplätzen</li><li>Verwendung des Things Network (TTN) für nahtlose Gerätebereitstellung, Konfiguration und Datenmanagement</li></ul>",
+  "Smart Inverter Design": "Smart Inverter Design",
+  "Inverter control system, prototype UPS development, hardware integration": "Wechselrichter-Steuerungssystem, Prototyp UPS-Entwicklung, Hardware-Integration",
+  "AEG PS": "AEG PS",
+  "<p>In this FPGA based project PWM (Pulse Width Modulation) technique used to control power delivery to electrical devices by varying the width of pulses in  signal. It is achieves this by comparing a controller output signal with a reference triangular signal, generating a series of pulses that adjust the switching state of the device. This precise control allows for efficient regulation of motor speeds, LED brightness, and power supplies.</p>": "<p>In diesem FPGA-basierten Projekt wird die PWM (Pulsweitenmodulation) Technik verwendet, um die Stromversorgung für elektrische Geräte zu steuern, indem die Breite der Pulse im Signal variiert wird. Dies wird erreicht, indem das Ausgangssignal eines Reglers mit einem Referenz-Dreiecksignal verglichen wird, wodurch eine Serie von Pulsen erzeugt wird, die den Schaltzustand des Geräts anpassen. Diese präzise Steuerung ermöglicht eine effiziente Regelung der Motordrehzahlen, LED-Helligkeit und Stromversorgung.</p>",
+  "Robust LoRaWAN-based IoT device for smart car parking management, long-lasting battery life, seamless mobile app connectivity, efficient STM32WL55 and MQTT data transmission": "Robustes LoRaWAN-basiertes IoT-Gerät für intelligentes Parken von Autos, lange Akkulaufzeit, nahtlose mobile App-Konnektivität, effiziente STM32WL55 und MQTT-Datenübertragung",
+  "<ul><li>Integrates precise laser positioning with real-time object detection</li><li>Controlled remotely via the Blynk app</li><li>Allows users to input distance values and adjust laser angles accurately</li><li>Calculates angles within a margin of ±20 degrees</li><li>PIR sensor reliably detects motion and triggers appropriate responses</li><li>Provides real-time feedback and control through the Blynk app</li><li>Includes self-defined drills and exercises for custom laser movement patterns</li><li>Remains stable for extended periods, ensuring continuous operation</li><li>Ensures user safety with secure mounting and regulated power</li><li>Delivers accurate, responsive, and interactive performance suitable for various applications</li></ul>": "<ul><li>Integriert präzise Laserpositionierung mit Echtzeit-Objekterkennung</li><li>Fernsteuerung über die Blynk-App</li><li>Ermöglicht Benutzern, Entfernungswerte einzugeben und Laserwinkel genau anzupassen</li><li>Berechnet Winkel innerhalb einer Toleranz von ±20 Grad</li><li>PIR-Sensor erkennt zuverlässig Bewegung und löst entsprechende Reaktionen aus</li><li>Bietet Echtzeit-Feedback und Kontrolle über die Blynk-App</li><li>Beinhaltet selbst definierte Übungen für benutzerdefinierte Laserbewegungsmuster</li><li>Bleibt über längere Zeiträume stabil und gewährleistet einen kontinuierlichen Betrieb</li><li>Stellt die Sicherheit des Benutzers mit sicherer Montage und regulierter Leistung sicher</li><li>Bietet präzise, reaktionsschnelle und interaktive Leistung für verschiedene Anwendungen</li></ul>",
+  "Embedded Systems": "Embedded Systeme",
+  "Davinci": "Davinci",
+  "<p>Automated Extraction: Our tool automates the extraction process, saving developers valuable time and effort.</p><ul><li>Developers can access a comprehensive list of variables, including their addresses, sizes, module names, and data types, all neatly organized within the XML output.</li><li>Designed specifically for STM32 series microcontrollers and compatible with debug files generated by Keil uVision projects, ensuring seamless integration into existing workflows</li><li>Users have the flexibility to customize the extraction process and output format to suit their specific requirements.</li><li>With an intuitive user interface, our application is accessible to developers of all levels of expertise.</li><li>Users have the flexibility to customize the extraction process and output format to suit their specific requirements.</li></ul>": "<p>Automatisierte Extraktion: Unser Tool automatisiert den Extraktionsprozess und spart Entwicklern wertvolle Zeit und Aufwand.</p><ul><li>Entwickler können eine umfassende Liste von Variablen einsehen, einschließlich ihrer Adressen, Größen, Modultypen und Datentypen, die alle übersichtlich im XML-Ausgabeformat organisiert sind.</li><li>Speziell entwickelt für STM32-Mikrocontroller und kompatibel mit Debug-Dateien, die von Keil uVision-Projekten generiert werden, was eine nahtlose Integration in bestehende Arbeitsabläufe gewährleistet.</li><li>Benutzer haben die Flexibilität, den Extraktionsprozess und das Ausgabeformat nach ihren spezifischen Anforderungen anzupassen.</li><li>Mit einer benutzerfreundlichen Oberfläche ist unsere Anwendung für Entwickler aller Erfahrungsstufen zugänglich.</li><li>Benutzer haben die Flexibilität, den Extraktionsprozess und das Ausgabeformat nach ihren spezifischen Anforderungen anzupassen.</li></ul>",
+  "App-Controlled Warm-Soles": "App-gesteuerte Warm-Sohlen",
+  "Vulpes": "Vulpes",
+  "Services List": "Liste der Dienstleistungen",
+  "Embedded Solutions": "Eingebettete Lösungen",
+  "Digital Solutions": "Digitale Lösungen",
+  "Embedded Projects": "Eingebettete Projekte",
+  "Digital Projects": "Digitale Projekte",
+  "Postal address": "Postanschrift",
+  "Mira Elektronikentwicklung UG (limited liability)": "Mira Elektronikentwicklung UG (haftungsbeschränkt)",
+  "Waitzstraße 92": "Waitzstraße 92",
+  "24118 Kiel": "24118 Kiel",
+  "Email: raza.abbas@mira-ee.de" : "Email: raza.abbas@mira-ee.de",
+  "Phone": "Telefon: +49 1522 6426128",
+  "Commercial register number": "Handelsregisternummer: : HRB 24555 B",
+  "Responsible for content": "Verantwortlich für den Inhalt: Raza Abbas",
+  "The European Commission": "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) zur Verfügung, die Sie hier finden können: ec.europa.eu/consumers/odr.",
+  "We are prepared to participate": "Wir sind bereit, an einem außergerichtlichen Schlichtungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
+  "The responsible body is the General Consumer": "Die verantwortliche Stelle ist die Allgemeine Verbraucherschlichtungsstelle des Zentrums für Schlichtung e.V., Straßburger Straße 8, 77694 Kehl am Rhein, www.verbraucher-schlichter.de.",
+  "Disclaimer": "Haftungsausschluss:",
+  "Imprint" : "Impressum",
+  "Image Material:": "Bildmaterial:",
+  "Used hero image from": "Verwendetes Hero-Bild von ",
+  "Others are our own images": "Andere sind unsere eigenen Bilder",
+  "Legal Notice:": "Rechtlicher Hinweis:",
+  "Liability for links:": "Haftung für Links:",
+  "general": "1. Allgemeines: ",
+  "personal_data_info": "Ihre persönlichen Daten (z.B. Titel, Name, Adresse, E-Mail-Adresse, Telefonnummer) werden von uns nur in Übereinstimmung mit den Bestimmungen des deutschen Datenschutzrechts und des Datenschutzrechts der Europäischen Union (EU) verarbeitet. Neben den Verarbeitungszwecken, Empfängern, rechtlichen Grundlagen und Speicherfristen informieren Sie die folgenden Bestimmungen auch über Ihre Rechte und den für die Verarbeitung Ihrer Daten verantwortlichen Verantwortlichen. Diese Datenschutzrichtlinie gilt nur für unsere Websites. Wenn Sie über Links auf unseren Seiten auf andere Websites weitergeleitet werden, informieren Sie sich dort bitte über den jeweiligen Umgang mit Ihren Daten.",
+  "contact_heading": "2. Kontaktaufnahme:",
+  "purpose_of_processing": "(1) Zweck der Verarbeitung",
+  "processing_info": "Wir verarbeiten die persönlichen Daten, die Sie uns per E-Mail, Kontaktformular usw. zur Verfügung stellen, um Ihre Anfragen zu beantworten und zu bearbeiten. Sie sind nicht verpflichtet, uns Ihre persönlichen Daten zur Verfügung zu stellen. Ohne Ihre E-Mail-Adresse können wir Ihnen jedoch nicht per E-Mail antworten.",
+  "legal_bases": "(2) Rechtsgrundlagen",
+  "legal_basis_info": "a) Wenn Sie uns Ihre ausdrückliche Einwilligung zur Verarbeitung Ihrer Daten gegeben haben, ist Art. 6 Abs. 1a) DSGVO die rechtliche Grundlage für diese Verarbeitung. b) Wenn wir Ihre Daten zur Durchführung vorvertraglicher Maßnahmen verarbeiten, ist Art. 6 Abs. 1b) DSGVO die rechtliche Grundlage. c) In allen anderen Fällen (insbesondere bei der Verwendung eines Kontaktformulars) ist Art. 6 Abs. 1f) DSGVO die rechtliche Grundlage. WIDERSPRUCHSRECHT: Sie haben das Recht, der Datenverarbeitung auf Grundlage von Art. 6 Abs. 1f) DSGVO zu widersprechen, wenn diese nicht der Direktwerbung dient und aufgrund Ihrer besonderen Situation. Im Fall von Direktwerbung können Sie der Verarbeitung jedoch jederzeit ohne Angabe von Gründen widersprechen.",
+  "legitimate_interest": "(3) Berechtigtes Interesse",
+  "legitimate_interest_info": "Unser berechtigtes Interesse an der Verarbeitung ist die schnelle Kommunikation mit Ihnen und die kostengünstige Beantwortung Ihrer Anfragen. Wenn Sie uns Ihre Adresse zur Verfügung stellen, behalten wir uns vor, diese für Direktwerbung per Post zu verwenden. Sie können Ihr Interesse am Datenschutz schützen, indem Sie Daten sparsam weitergeben (z.B. durch die Verwendung eines Pseudonyms).",
+  "categories_of_recipients": "(4) Empfänger-Kategorien",
+  "recipients_info": "Hosting-Anbieter, Mailing-Dienstleister für Direktwerbung.",
+  "storage_period": "(5) Speicherfrist",
+  "storage_period_info": "Ihre Daten werden gelöscht, wenn aus den Umständen ersichtlich wird, dass Ihre Anfrage oder die betreffende Angelegenheit abschließend geklärt wurde. Sollte jedoch ein Vertrag geschlossen werden, bewahren wir die für handels- und steuerrechtliche Zwecke erforderlichen Daten für die gesetzlich vorgeschriebenen Fristen auf, d.h. regelmäßig zehn Jahre (siehe § 257 HGB, § 147 AO).",
+  "right_of_withdrawal": "(6) Widerrufsrecht",
+  "right_of_withdrawal_info": "Im Falle einer Verarbeitung auf Basis Ihrer Einwilligung haben Sie das Recht, Ihre Einwilligung jederzeit zu widerrufen.",
+  "comments_heading": "3. Kommentare:",
+  "comment_processing": "(1) Zweck der Verarbeitung",
+  "comment_info": "Es ist möglich, einen Kommentar zu schreiben. Ihre Daten (z.B. Name/Pseudonym, E-Mail-Adresse, Website) werden dann nur zum Zweck der Veröffentlichung Ihres Kommentars verarbeitet.",
+  "comment_legal_basis": "(2) Rechtsgrundlage",
+  "comment_legal_basis_info": "Die Rechtsgrundlage für diese Verarbeitung ist Art. 6 Abs. 1 f) DSGVO.",
+  "comment_legitimate_interest": "(3) Berechtigtes Interesse",
+  "comment_legitimate_interest_info": "Unser berechtigtes Interesse ist der öffentliche Austausch von Benutzermeinungen zu bestimmten Themen und Produkten. Die Veröffentlichung dient unter anderem der Förderung von Transparenz und Meinungsbildung. Ihr Interesse am Datenschutz ist gewahrt, da Sie Ihren Kommentar unter einem Pseudonym veröffentlichen können.",
+  "comment_storage_period": "(4) Speicherfrist",
+  "comment_storage_period_info": "Es gibt keine spezifische Speicherfrist. Sie können die Löschung Ihres Kommentars jederzeit anfordern.",
+  "right_to_object": "(5) WIDERSPRUCHSRECHT",
+  "right_to_object_info": "Sie haben das Recht, der Datenverarbeitung auf Grundlage von Art. 6 Abs. 1 f) DSGVO zu widersprechen, wenn diese nicht der Direktwerbung dient und aufgrund Ihrer besonderen Situation. Im Fall von Direktwerbung können Sie der Verarbeitung jedoch jederzeit ohne Angabe von Gründen widersprechen.",
+  "webAnalysis.title": "4. Web-Analyse mit Google Analytics:",
+  "webAnalysis.purpose": "(1) Zweck der Verarbeitung",
+  "webAnalysis.purposeText": "Diese Website verwendet Google Analytics, einen Webanalyse-Service von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland (\"Google\"). Google Analytics verwendet \"Cookies\", Textdateien, die auf Ihrem Computer abgelegt werden, um der Website zu helfen, zu analysieren, wie Benutzer die Seite nutzen. Die durch das Cookie erzeugten Informationen über Ihre Nutzung dieser Website werden in der Regel an einen Google-Server in den USA übertragen und dort gespeichert. Wenn jedoch die IP-Anonymisierung auf dieser Website aktiviert ist, wird Ihre IP-Adresse von Google zuvor innerhalb der Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt. Nur in Ausnahmefällen wird die vollständige IP-Adresse an einen Google-Server in den USA übertragen und dort gekürzt. Google wird diese Informationen im Auftrag des Betreibers dieser Website verwenden, um Ihre Nutzung der Website auszuwerten, Berichte über die Website-Aktivität zu erstellen und dem Website-Betreiber andere mit der Website-Aktivität und der Internetnutzung verbundene Dienstleistungen bereitzustellen.",
+  "webAnalysis.legalBasis": "(2) Rechtsgrundlage",
+  "webAnalysis.legalBasisText": "Die Rechtsgrundlage für diese Verarbeitung ist Art. 6 Abs. 1a) DSGVO.",
+  "webAnalysis.categories": "(3) Empfänger-Kategorien",
+  "webAnalysis.categoriesText": "Google und seine Partnerunternehmen.",
+  "webAnalysis.transfer": "(4) Übermittlung in ein Drittland",
+  "webAnalysis.transferText": "Google Ireland Limited ist ein Unternehmen, das mit Google LLC verbunden ist. Google LLC befindet sich in den USA (1600 Amphitheatre Parkway, Mountain View, CA 94043).",
+  "storage_period1": "(5) Speicherfrist",
+  "unlimited": "Unbegrenzt",
+  "right_to_object1": "(6) WIDERSPRUCHSRECHT",
+  "refuse_cookies": "Sie können die Verwendung von Cookies ablehnen, indem Sie die entsprechenden Einstellungen in Ihrem Browser auswählen. Bitte beachten Sie jedoch, dass Sie möglicherweise nicht in der Lage sind, die vollständige Funktionalität dieser Website zu nutzen, wenn Sie dies tun.",
+  "cookie_note": "Sie können auch verhindern, dass Google die durch das Cookie generierten Daten, die mit Ihrer Nutzung der Website (einschließlich Ihrer IP-Adresse) zusammenhängen, sammelt und diese Daten von Google verarbeiten lässt, indem Sie das Browser-Plugin herunterladen und installieren, das unter dem folgenden Link verfügbar ist:",
+  "google_optout": "optout",
+  "cookies_heading2": "5. Informationen über Cookies:",
+  "purpose_of_processing2": "(1) Zweck der Verarbeitung",
+  "purpose_info2": "Auf dieser Website werden technisch notwendige Cookies verwendet. Dies sind kleine Textdateien, die nicht dauerhaft in oder von Ihrem Internetbrowser auf Ihrem Computersystem gespeichert werden und nur für die Funktionalität der Website verwendet werden. Andere Cookies bleiben dauerhaft und erkennen Ihren Browser beim nächsten Besuch, um die Benutzerfreundlichkeit der Website zu erhöhen.",
+  "legal_basis2": "(2) Rechtsgrundlage",
+  "legal_basis_info2": "Die Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 f) DSGVO.",
+  "legitimate_interest2": "(3) Berechtigtes Interesse",
+  "legitimate_interest_info2": "Unser berechtigtes Interesse liegt in der Funktionalität und Benutzerfreundlichkeit unserer Website. Die durch technisch notwendige Cookies und die hier beschriebenen Langzeit-Cookies erfassten Nutzerdaten werden nicht zur Erstellung von Nutzerprofilen verwendet. Dies schützt Ihr Interesse am Datenschutz.",
+  "storage_period2": "(4) Speicherfrist",
+  "storage_period_info2": "Die technisch notwendigen Cookies werden in der Regel gelöscht, wenn der Browser geschlossen wird. Dauerhaft gespeicherte Cookies haben eine Lebensdauer, die von wenigen Minuten bis zu mehreren Jahren variiert.",
+  "right_to_object2": "(5) WIDERSPRUCHSRECHT",
+  "right_to_object_info2": "Wenn Sie nicht möchten, dass diese Cookies gespeichert werden, deaktivieren Sie bitte die Annahme dieser Cookies in Ihrem Internetbrowser. Dies kann jedoch die Funktionalität unserer Website einschränken. Sie können auch dauerhaft gespeicherte Cookies jederzeit über Ihren Browser löschen.",
+  "newsletter_heading3": "6. Newsletter:",
+  "purpose_of_processing3": "(1) Zweck der Verarbeitung",
+  "newsletter_purpose_info3": "Wenn Sie sich für den Newsletter anmelden, wird Ihre E-Mail-Adresse zu Werbezwecken verwendet, d.h. wir informieren Sie insbesondere über Produkte aus unserem Sortiment im Rahmen des Newsletters. Für statistische Zwecke können wir analysieren, welche Links im Newsletter angeklickt werden. Wir können nicht erkennen, welche spezifische Person geklickt hat. Sie haben ausdrücklich die folgende Einwilligung separat erteilt oder, falls zutreffend, im Rahmen des Bestellvorgangs: Abonnement des Newsletters",
+  "legal_basis3": "(2) Rechtsgrundlage",
+  "legal_basis_info3": "Die Rechtsgrundlage für diese Verarbeitung ist Art. 6 Abs. 1 a) DSGVO.",
+  "categories_of_recipients3": "(3) Kategorien von Empfängern",
+  "categories_info3": "Groundhogg und Partner",
+  "storage_period3": "(4) Speicherfrist",
+  "storage_period_info3": "Ihre E-Mail-Adresse wird nur für die Newsletter-Versendung für die Dauer der gewünschten Anmeldung gespeichert.",
+  "transfer_to_third_country3": "(5) Übermittlung in ein Drittland",
+  "third_country_info3": "Groundhogg Inc. (https://groundhogg.io), 25 Lesmill Rd. Unit D, Toronto ON, Kanada, M3B 2T3.",
+  "right_of_withdrawal3": "(6) Widerrufsrecht",
+  "right_of_withdrawal_info3": "Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen. Wenn Sie den Newsletter nicht mehr erhalten möchten, können Sie sich wie folgt abmelden: Über einen Abmeldelink im Newsletter",
+  "your_rights_as_data_subject3": "(7) Ihre Rechte als betroffene Person",
+  "data_subject_rights_info3": "Wenn Ihre personenbezogenen Daten verarbeitet werden, sind Sie eine betroffene Person im Sinne der DSGVO und haben die folgenden Rechte gegenüber uns als Verantwortlichem: 1. Auskunftsrecht Sie können Auskunft über Ihre bei uns verarbeiteten personenbezogenen Daten gemäß Art. 15 DSGVO verlangen. 2. Recht auf Berichtigung Wenn die Sie betreffenden Daten unrichtig sind (oder nicht mehr korrekt sind), können Sie die Berichtigung gemäß Art. 16 DSGVO verlangen. Wenn Ihre Daten unvollständig sind, können Sie die Vervollständigung verlangen. 3. Recht auf Löschung Sie können die Löschung Ihrer personenbezogenen Daten gemäß den Bedingungen des Art. 17 DSGVO verlangen. 4. Recht auf Einschränkung der Verarbeitung Im Rahmen der Bestimmungen des Art. 18 DSGVO haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer Daten zu verlangen. 5. Recht auf Datenübertragbarkeit Gemäß Art. 20 DSGVO haben Sie das Recht, die personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder deren Übertragung an einen anderen Verantwortlichen zu verlangen. 6. Recht auf Widerruf der datenschutzrechtlichen Einwilligung Nach Art. 7 Abs. 3 DSGVO haben Sie das Recht, Ihre datenschutzrechtliche Einwilligung jederzeit zu widerrufen. Dies berührt nicht die Rechtmäßigkeit der bis zum Widerruf auf Grundlage der Einwilligung erfolgten Verarbeitung. 7. Recht auf Beschwerde bei einer Aufsichtsbehörde Wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen die DSGVO verstößt, haben Sie das Recht, bei einer Aufsichtsbehörde (insbesondere im Mitgliedstaat Ihres gewöhnlichen Aufenthalts, Ihres Arbeitsplatzes oder des Ortes der behaupteten Verletzung) gemäß Art. 77 DSGVO Beschwerde einzulegen. Bitte beachten Sie auch Ihr Widerspruchsrecht gemäß Art. 21 DSGVO: a) Allgemein: gerechtfertigter Widerspruch erforderlich Wenn die Verarbeitung Ihrer personenbezogenen Daten erfolgt - zur Wahrung unseres überwiegenden berechtigten Interesses (Rechtsgrundlage gemäß Art. 6 Abs. 1 f) DSGVO) oder - im öffentlichen Interesse (Rechtsgrundlage gemäß Art. 6 Abs. 1 (e) DSGVO), haben Sie das Recht, der Verarbeitung jederzeit aus Gründen, die sich aus Ihrer besonderen Situation ergeben, zu widersprechen; dies gilt auch für Profiling, das auf den Bestimmungen der DSGVO basiert. Im Falle eines Widerspruchs werden wir Ihre personenbezogenen Daten nicht weiter verarbeiten, es sei denn, wir können zwingende berechtigte Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen oder für die Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen. b) Besonderer Fall der Direktwerbung: einfacher Widerspruch ausreichend Wenn Ihre personenbezogenen Daten zu Zwecken der Direktwerbung verarbeitet werden, haben Sie das Recht, dieser Verarbeitung jederzeit und ohne Angabe von Gründen zu widersprechen; dies gilt auch für Profiling, soweit es mit dieser Direktwerbung in Verbindung steht. Wenn Sie der Verarbeitung zu Zwecken der Direktwerbung widersprechen, werden Ihre personenbezogenen Daten nicht mehr für diese Zwecke verarbeitet.",
+  "responsible_for_data_processing3": "Verantwortlicher für die Datenverarbeitung:",
+  "responsible_info3": "Raza Abbas, Waitzstraße 92, 24118 Kiel, Telefon: +49 1522 6426128, raza.abbas@mira-ee.de",  
+  "Our offer contains links": "Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Haftung übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.",
+  "Raza Abbas is not responsible for": "Raza Abbas ist nicht verantwortlich für Webseiten und deren Inhalte, auf die über Hyperlinks verwiesen wird.",
+  "All texts, graphics and images": "Alle Texte, Grafiken und Bilder auf der Homepage www.mira-ee.com unterliegen dem Urheberrecht von Raza Abbas und können durch Dritte geschützt sein. Kein Teil dieser Veröffentlichung darf in irgendeiner Form reproduziert, bearbeitet, vervielfältigt oder mit elektronischen Systemen verbreitet werden, ohne die schriftliche Erlaubnis von Raza Abbas. Raza Abbas übernimmt keine Haftung für die Datensicherheit von Informationen, die über die Website oder per E-Mail gesendet werden.",
+  "As a content provider": "Als Inhaltsanbieter ist der Betreiber der Homepage nach allgemeinem Recht für die \"eigenen Inhalte\" verantwortlich, die auf www.mira-ee.com gemäß § 7 Absatz 1 des Telemediengesetzes zur Nutzung bereitgestellt werden. Querverweise (\"Links\") auf Inhalte, die von anderen Anbietern zur Verfügung gestellt werden, müssen von diesen eigenen Inhalten unterschieden werden. Durch den Querverweis stellt der Betreiber der Homepage \"fremde Inhalte\" zur Nutzung bereit, die entsprechend mit dem Hinweis \"[extern]\" gekennzeichnet sind. Diese fremden Inhalte wurden beim erstmaligen Setzen des Links daraufhin überprüft, ob sie mögliche zivil- oder strafrechtliche Verantwortlichkeiten auslösen könnten. Es kann jedoch nicht ausgeschlossen werden, dass diese Inhalte möglicherweise gegen Gesetze verstoßen, und der Betreiber übernimmt keine Verantwortung für fremde Inhalte, nachdem der Link gesetzt wurde.",  
+  "The operator of the homepage": "Der Betreiber der Homepage hat das Urheberrecht oder die entsprechenden Nutzungsrechte für alle Bilder, Filme und Texte, die im Webshop, in E-Mails oder in Katalogen veröffentlicht sind. Die Nutzung, insbesondere die Vervielfältigung, Bearbeitung, Übersetzung, Speicherung, Verarbeitung oder Wiedergabe der Bilder, Filme und Texte, ist ohne ausdrückliche schriftliche Zustimmung des Anbieters oder des ursprünglichen Inhabers der Eigentumsrechte nicht gestattet.",
+  "Have ideas for your business? Let’s build something awesome together" : "Haben Sie Ideen für Ihr Unternehmen? Lassen Sie uns gemeinsam etwas Großartiges erschaffen",
+  "<p>Outdoor Activities: Whether it's hiking, skiing, snowboarding, or simply taking a winter stroll, WarmSole ensures that outdoor enthusiasts can enjoy their favorite activities without worrying about cold feet. Commuting: Ideal for commuters facing chilly mornings and icy sidewalks, WarmSole provides warmth and comfort during walks to work, school, or public transportation. Work Environments: For professionals who spend extended periods outdoors or in cold environments, such as construction workers, delivery personnel, or event staff, WarmSole offers essential warmth and protection against the elements. Medical Use: Individuals with conditions such as poor circulation or Raynaud's disease can benefit from the therapeutic warmth provided by WarmSole, helping to alleviate symptoms and improve comfort. Outdoor Events and Festivals: Attendees of outdoor events, festivals, and markets can stay warm and cozy while exploring stalls, performances, and attractions, enhancing their overall experience. Travel: Whether traveling to cold climates or exploring winter destinations, WarmSole ensures that travelers can stay comfortable and active without being hindered by cold weather. Elderly Care: Elderly individuals, who may be more susceptible to the cold, can maintain warmth and mobility during outdoor activities or daily walks, promoting their overall well-being and independence. Sports and Recreation: Athletes participating in winter sports and activities, such as ice skating or snowshoeing, can enhance their performance and enjoyment with the added warmth and comfort provided by WarmSole. Fashion and Style: Beyond functionality, WarmSole's sleek design and customizable features make it a stylish accessory for anyone seeking both warmth and fashion-forward footwear during the winter months. Emergency Situations: In emergency situations where individuals may be stranded or exposed to cold temperatures for extended periods, WarmSole can provide essential warmth and protection, potentially reducing the risk of cold-related injuries.</p>": "<p>Outdoor-Aktivitäten: Ob Wandern, Skifahren, Snowboarden oder einfach ein Winterspaziergang, WarmSole sorgt dafür, dass Outdoor-Enthusiasten ihre Lieblingsaktivitäten genießen können, ohne sich um kalte Füße zu sorgen. Pendeln: Ideal für Pendler, die kalte Morgen und eisige Bürgersteige erleben, bietet WarmSole Wärme und Komfort bei Spaziergängen zur Arbeit, zur Schule oder öffentlichen Verkehrsmitteln. Arbeitsumgebungen: Für Fachleute, die längere Zeit im Freien oder in kalten Umgebungen verbringen, wie Bauarbeiter, Lieferpersonal oder Eventmitarbeiter, bietet WarmSole wesentliche Wärme und Schutz vor den Elementen. Medizinische Anwendung: Personen mit Erkrankungen wie schlechter Durchblutung oder Raynaud-Syndrom können von der therapeutischen Wärme profitieren, die WarmSole bietet, um Symptome zu lindern und den Komfort zu verbessern. Outdoor-Events und Festivals: Teilnehmer an Outdoor-Veranstaltungen, Festivals und Märkten können sich warm und gemütlich halten, während sie Stände, Aufführungen und Attraktionen erkunden und ihr Erlebnis insgesamt verbessern. Reisen: Ob Reisen in kalte Klimazonen oder Erkundung von Winterdestinationen, WarmSole sorgt dafür, dass Reisende bequem und aktiv bleiben können, ohne durch kaltes Wetter eingeschränkt zu werden. Seniorenpflege: Ältere Menschen, die möglicherweise anfälliger für Kälte sind, können Wärme und Mobilität während Outdoor-Aktivitäten oder täglichen Spaziergängen aufrechterhalten, was ihr allgemeines Wohlbefinden und ihre Unabhängigkeit fördert. Sport und Freizeit: Sportler, die an Wintersportarten und Aktivitäten wie Eislaufen oder Schneeschuhwandern teilnehmen, können ihre Leistung und Freude mit der zusätzlichen Wärme und dem Komfort, den WarmSole bietet, steigern. Mode und Stil: Über die Funktionalität hinaus macht das schlanke Design und die anpassbaren Funktionen von WarmSole es zu einem stilvollen Accessoire für jeden, der sowohl Wärme als auch modische Winterbekleidung sucht. Notfallsituationen: In Notfällen, in denen Personen für längere Zeit in kalten Temperaturen gestrandet oder ausgesetzt sein könnten, kann WarmSole essentielle Wärme und Schutz bieten, wodurch das Risiko von kältebedingten Verletzungen möglicherweise reduziert wird.</p>",
+
+
+
+
+
+
+  "about": {
+      "page-title": "Über uns",
+      "sub-title": "MIRA – Zukunft gestalten mit digitalen Lösungen!",
+      "welcome": "Willkommen bei Mira Elektronikentwicklung",
+      "p1": "Wir sind ein modernes",
+      "p2": "Softwareunternehmen",
+      "p3": "mit dem Fokus auf die Entwicklung",
+      "p4": "innovativer Lösungen",
+      "m1": "Seit unserer Gründung haben wir uns der Bereitstellung innovativer Softwarelösungen verschrieben,",
+      "m2": "die auf Ihre Bedürfnisse zugeschnitten sind, Wachstum fördern und Benutzererfahrungen verbessern. Unsere Hingabe",
+      "m3": "an Exzellenz spiegelt sich in unserem wachsenden Fachwissen und erfolgreichen Projekten wider.",
+      "our-mission": "Unsere Mission",
+      "mission": "Unsere Geschichte beginnt bei MIRA Elektronikentwicklung, wo ein eingespieltes Team von Softwareexperten durch eine gemeinsame Leidenschaft für innovative Softwarelösungen angetrieben wird. Wir spezialisieren uns auf Web-Apps, mobile Apps sowie auf Enterprise Resource Planning (ERP), SAP Business One (SAPB1) und Point of Sale (POS)-Systeme und gelten als Pioniere bei der Neugestaltung der digitalen Landschaft von Geschäftsabläufen. Obwohl wir erst seit einem Jahr auf der Reise von MIRA Elektronikentwicklung sind, haben wir bereits bemerkenswerte Meilensteine erreicht. Unsere Vision reicht jedoch weit über diese Errungenschaften hinaus. Wir sind bereit, neue Wege zu beschreiten, die Grenzen der Innovation zu erweitern und neue Standards in der Softwarebranche zu setzen. Unser Engagement für Exzellenz treibt uns voran, während wir uns weiterentwickeln, anpassen und neue Horizonte erobern. Mit jeder Herausforderung, die wir überwinden, und jedem Ziel, das wir erreichen, bekräftigen wir unser Engagement, eine hellere Zukunft für MIRA Elektronikentwicklung und die Welt der Softwarelösungen zu gestalten. Unsere Reise bei MIRA Elektronikentwicklung ist geprägt von einem stetigen Streben nach Wachstum und Exzellenz. Was als eine kleine Gruppe von Fachleuten begann, hat sich zu einer florierenden Gemeinschaft entwickelt, die sich der Weiterentwicklung von Softwareinnovationen verschrieben hat.",
+      "our-goal": "Unser Ziel",
+      "goal": "Angetrieben von tiefem Vertrauen und einer gemeinsamen Vision schreiten wir mit jedem Projekt voran und entwickeln maßgeschneiderte Lösungen, die Unternehmen und Einzelpersonen gleichermaßen stärken. Mit einem Fokus auf Echtzeitfunktionalität und modernster Technologie optimieren wir Prozesse und erzielen greifbare Ergebnisse. Bei MIRA Elektronikentwicklung verstehen wir die Bedeutung von SEO zur Steigerung der Online-Sichtbarkeit und zur Generierung organischen Traffics. Durch die Optimierung jedes Aspekts unserer Lösungen sorgen wir dafür, dass unsere Kunden in der digitalen Welt auffallen, Aufmerksamkeit erregen und ihre Ziele erreichen. Begleiten Sie uns auf unserer Reise, während wir weiterhin eine spannende Geschichte für MIRA Elektronikentwicklung schreiben, die Zukunft von Softwarelösungen mit Innovation, Fachwissen und einer Prise Leidenschaft und Engagement gestalten."
+      
+  },
+
+"embedded_services": {
+  "items": [
+    {
+      "id": "embedded-engineering",
+      "image": "/assets/images/service/chip.png",
+      "title": "Eingebettete Technik",
+      "text": "Wir entwickeln für Sie elektronische Systeme, die in andere Geräte eingebettet sind, wie z. B. Autos, Flugzeuge, Haushaltsgeräte und Mobiltelefone.",
+      "link": "service-details"
+    },
+    {
+      "id": "battery-management",
+      "image": "/assets/images/service/battery.png",
+      "title": "Batteriemanagement",
+      "text": "Wir entwickeln für Sie Software, die Batterien überwacht und steuert, um ihre Lebensdauer, Leistung und Sicherheit zu erhöhen.",
+      "link": "service-details"
+    },
+    {
+      "id": "mobile-app-development",
+      "image": "/assets/images/service/coding.png",
+      "title": "Entwicklung mobiler Apps",
+      "text": "Wir entwickeln Softwareanwendungen für mobile Geräte wie Smartphones und Tablets.",
+      "link": "service-details"
+    },
+    {
+      "id": "hardware-and-firmware-dev",
+      "image": "/assets/images/service/hosting.png",
+      "title": "Hardware- und Firmware-Entwicklung",
+      "text": "Wir entwickeln und warten Hardware und Software, die in elektronischen Geräten verwendet werden.",
+      "link": "service-details"
+    },
+    {
+      "id": "end-to-end-product-dev",
+      "image": "/assets/images/service/idea.png",
+      "title": "End-to-End-Produktentwicklung",
+      "text": "Wir entwickeln Produkte für Sie von der Konzeption bis zur Markteinführung.",
+      "link": "/contact-us"
+    },
+    {
+      "id": "machine-learning",
+      "image": "/assets/images/service/machine-learning.png",
+      "title": "Maschinelles Lernen",
+      "text": "Wir entwickeln Software für maschinelles Lernen, die Entscheidungsprozesse optimiert, um die Effizienz zu steigern.",
+      "link": "/contact-us"
+    }
+  ]
+},
+
+"digital_services": {
+  "items": [
+    {
+      "id": "web-development",
+      "image": "/assets/images/service/web.png",
+      "title": "Webentwicklung",
+      "text": "Erstellen Sie eine attraktive Website mit modernen Funktionen. Unsere Webentwickler beherrschen das Handwerk des Designs, des Aufbaus und der Pflege von E-Commerce-Websites und webbasierten Anwendungen, die auf modernen Tech-Stacks basieren.",
+      "link": "service-details"
+    },
+    {
+      "id": "mobile-app-developement",
+      "image": "/assets/images/service/app.png",
+      "title": "Mobile App Entwicklung",
+      "text": "Mobile Apps, die auf verschiedenen Plattformen und Bildschirmgrößen laufen. Ob Spiele, E-Commerce-Apps oder Bildungs-Apps – unser Team bietet Ihnen umfassende Lösungen, um sich in der Konkurrenz zu behaupten.",
+      "link": "service-details"
+    },
+    {
+      "id": "enterprise-software",
+      "image": "/assets/images/service/enterprise.png",
+      "title": "Unternehmenssoftware",
+      "text": "Mit umfangreicher Erfahrung in der Entwicklung und Implementierung von Unternehmenslösungen verfügt MIRA über ein Expertenteam von Entwicklern und Beratern, um Ihr Unternehmen auf die nächste Ebene zu heben. Wir bieten exklusive Dienstleistungen für SAP mit Add-On-Integration.",
+      "link": "service-details"
+    },
+    {
+      "id": "cloud-based-solutions",
+      "image": "/assets/images/service/cloud.png",
+      "title": "Cloudbasierte Lösungen",
+      "text": "Mit den Managed-Cloud-Services von Mira genießen Sie sichere, skalierbare Lösungen zusammen mit Speicher, Verarbeitung und App-Bereitstellung. Wir haben Expertise im Umgang mit allen großen Cloud-Plattformen wie GCP, GKE, AWS und Azure.",
+      "link": "service-details"
+    },
+    {
+      "id": "ui-ux-design",
+      "image": "/assets/images/service/ui.png",
+      "title": "UI/UX-Design-Dienstleistungen",
+      "text": "Wir sind Experten darin, nicht nur visuell ansprechende Schnittstellen zu schaffen, sondern auch benutzerfreundliche, die die Benutzererfahrung verbessern. Ein überzeugendes UI/UX-Design basiert auf gründlicher Recherche zu Benutzerverhalten und -bedürfnissen.",
+      "link": "/contact-us"
+    },
+    {
+      "id": "maintenance-and-support",
+      "image": "/assets/images/service/support.png",
+      "title": "Wartung und Support",
+      "text": "Robuste Wartungs- und Supportdienste ermöglichen es Software, Apps, Produkten und Websites, effizient und fehlerfrei zu arbeiten und sich mit der Zeit weiterzuentwickeln. Erhalten Sie rechtzeitige Updates, beheben Sie Fehler und adressieren Sie Probleme, die Ihren Arbeitsablauf beeinträchtigen.",
+      "link": "/contact-us"
+    },
+    {
+      "id": "devops-and-ci",
+      "image": "/assets/images/service/devops.png",
+      "title": "DevOps & CI",
+      "text": "Unsere DevOps- und CI-Lösungen zielen darauf ab, den Prozess von Entwicklung und Betrieb zu integrieren. Mit unserer Automatisierung im Bereitstellungsprozess können Sie Fehler frühzeitig erkennen und eine schnelle Bereitstellung Ihrer Anwendungen sicherstellen.",
+      "link": "/contact-us"
+    },
+    {
+      "id": "qa-and-testing",
+      "image": "/assets/images/service/test.png",
+      "title": "QA und Testing",
+      "text": "Ein robustes QA- und Testverfahren ist der Kern erfolgreicher Anwendungen und zufriedener Benutzer. Mithilfe von manuellen und automatisierten Skripten stellt unser Team sicher, dass die Anwendung fehlerfrei ist und den Anforderungen der Benutzer entspricht.",
+      "link": "/contact-us"
+    },
+    {
+      "id": "custom-software-solutions",
+      "image": "/assets/images/service/custom.png",
+      "title": "Individuelle Softwarelösungen",
+      "text": "Standardlösungen passen nicht zu Ihren Anforderungen? Unsere maßgeschneiderten Softwarelösungen umfassen alle Unternehmens-, Gaming- und E-Commerce-Anwendungen und bieten die Flexibilität, Ihre Aufgaben auf Ihre Weise zu erledigen und die Effizienz zu steigern.",
+      "link": "service-details"
+    }
+  ]
+},
+
+"embedded_projects": {
+  "items": [
+    {
+      "title": "MI Park",
+      "subtitle": "Hardware",
+      "image": {
+        "desktop": "/assets/project/mira-1.jpg",
+        "mobile": "/assets/project/mira-1.jpg"
+      },
+      "button": {
+        "label": "Projekt ansehen",
+        "link": "/embedded-projects/mi-park"
+      }
+    },
+    {
+      "title": "Intelligente Wechselrichter-Entwicklung",
+      "subtitle": "Hardware",
+      "image": {
+        "desktop": "/assets/project/inverter-cover-2.png",
+        "mobile": "/assets/project/inverter-cover-2.png"
+      },
+      "button": {
+        "label": "Projekt ansehen",
+        "link": "/embedded-projects/smart-inverter-design"
+      }
+    },
+    {
+      "title": "Laser-Positionierung und Objekterkennungssystem",
+      "subtitle": "Hardware",
+      "image": {
+        "desktop": "/assets/project/laser-pointing-1.jpeg",
+        "mobile": "/assets/project/laser-pointing-1.jpeg"
+      },
+      "button": {
+        "label": "Projekt ansehen",
+        "link": "/embedded-projects/laser-pointing-and-obs"
+      }
+    },
+    {
+      "title": "Fortgeschrittenes <br/> Batterie Management <br/> System",
+      "subtitle": "Hardware",
+      "image": {
+        "desktop": "/assets/project/battery-management-3.jpg",
+        "mobile": "/assets/project/battery-management-3.jpg"
+      },
+      "button": {
+        "label": "Projekt ansehen",
+        "link": "/embedded-projects/advanced-battery-management-system"
+      }
+    },
+    {
+      "title": "App-gesteuerte <br /> Warm-Sohlen",
+      "subtitle": "Eingebettete Systeme",
+      "image": {
+        "desktop": "/assets/project/app-controlled-cover-8.jpg",
+        "mobile": "/assets/project/app-controlled-cover-8.jpg"
+      },
+      "button": {
+        "label": "Projekt ansehen",
+        "link": "/embedded-projects/app-controlled-warm-soles"
+      }
+    }
+  ]
+},
+
+"digital_projects": {
+  "items": [
+    {
+      "title": "Smartsleep <br> Steuer-App",
+      "subtitle": "Mobile App",
+      "image": {
+        "desktop": "/assets/project/sleepApp2.jpg",
+        "mobile": "/assets/project/sleepApp2.jpg"
+      },
+      "button": {
+        "label": "Projekt ansehen",
+        "link": "/digital-projects/smartsleep-control-app"
+      }
+    },
+    {
+      "title": "Wemalo <br /> HANDHELD",
+      "subtitle": "PWA",
+      "image": {
+        "desktop": "/assets/project/wemalo.jpg",
+        "mobile": "/assets/project/wemalo.jpg"
+      },
+      "button": {
+        "label": "Projekt ansehen",
+        "link": "/digital-projects/wemalo-handheld"
+      }
+    },
+    {
+      "title": "MI park <br>Web-App",
+      "subtitle": "Web-App",
+      "image": {
+        "desktop": "/assets/project/parking.jpg",
+        "mobile": "/assets/project/parking.jpg"
+      },
+      "button": {
+        "label": "Projekt ansehen",
+        "link": "/digital-projects/mi-park-web-app"
+      }
+    },
+    {
+      "title": "Auto-chip <br> Integrations-Tool",
+      "subtitle": "Desktop-App",
+      "image": {
+        "desktop": "/assets/project/davinci.jpg",
+        "mobile": "/assets/project/davinci.jpg"
+      },
+      "button": {
+        "label": "Projekt ansehen",
+        "link": "/digital-projects/auto-chip-integration-tool"
+      }
+    },
+    {
+      "title": "Sypheon <br>Online",
+      "subtitle": "Online-Spiel",
+      "image": {
+        "desktop": "/assets/project/sypheon.jpg",
+        "mobile": "/assets/project/sypheon.jpg"
+      },
+      "button": {
+        "label": "Projekt ansehen",
+        "link": "/digital-projects/sypheon-online"
+      }
+    }
+  ]
+}
+
+
+
+
+}

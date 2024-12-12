@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "video": "/video/embedded-engineering-1.mp4",
+      "svg": true,
+      "title": "Design for Innovation, Build for Performance, Secure Every Layer",
+      "text": "We support you in your embedded system development, absorbing the peaks in your workload seamlessly.",
+      "button": {
+        "label": "About Us",
+        "link": "/about"
+      }
+    }
+  ]
+}

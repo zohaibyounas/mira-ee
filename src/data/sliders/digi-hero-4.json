@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Smartsleep <br> Control App",
+      "subtitle": "Mobile App",
+      "image": {
+        "desktop": "/assets/project/sleepApp2.jpg",
+        "mobile": "/assets/project/sleepApp2.jpg"
+      },
+      "button": {
+        "label": "View Project",
+        "link": "/digital-projects/smartsleep-control-app"
+      }
+    },
+    {
+      "title": "Wemalo <br /> HANDHELD",
+      "subtitle": "PWA",
+      "image": {
+        "desktop": "/assets/project/wemalo.jpg",
+        "mobile": "/assets/project/wemalo.jpg"
+      },
+      "button": {
+        "label": "View Project",
+        "link": "/digital-projects/wemalo-handheld"
+      }
+    },
+    {
+      "title": "MI park <br>web app",
+      "subtitle": "Web app",
+      "image": {
+        "desktop": "/assets/project/parking.jpg",
+        "mobile": "/assets/project/parking.jpg"
+      },
+      "button": {
+        "label": "View Project",
+        "link": "/digital-projects/mi-park-web-app"
+      }
+    },
+    {
+      "title": "Auto-chip <br> Integration Tool",
+      "subtitle": "Desktop App",
+      "image": {
+        "desktop": "/assets/project/davinci.jpg",
+        "mobile": "/assets/project/davinci.jpg"
+      },
+      "button": {
+        "label": "View Project",
+        "link": "/digital-projects/auto-chip-integration-tool"
+      }
+    },
+    {
+      "title": "Sypheon <br>Online",
+      "subtitle": "Online Game",
+      "image": {
+        "desktop": "/assets/project/sypheon.jpg",
+        "mobile": "/assets/project/sypheon.jpg"
+      },
+      "button": {
+        "label": "View Project",
+        "link": "/digital-projects/sypheon-online"
+      }
+    }
+  ]
+}

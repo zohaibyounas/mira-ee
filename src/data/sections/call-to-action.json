@@ -1,0 +1,29 @@
+{
+  "title": "Send Us Your <br/><strong>Bright Ideas</strong>",
+  "subtitle": "Get in Touch",
+  "text": "<a href=\"mailto:info@mira-dev.de\" target=\"_blank\">info@mira-dev.de</a><p>Waitzstraße 92 24118 Kiel <br />+49 1522 6426128</p>",
+  "bg_image": "/assets/images/contact-us-2.jpg",
+  "bg_image2": "/images/circle.png",
+  "social": [
+    {
+      "link": "https://web.facebook.com/people/Mira-Elektronikentwicklung/61559868427690/",
+      "icon": "fab fa-facebook-f",
+      "title": "Facebook"
+    },
+    {
+      "link": "https://www.instagram.com/mira.elektronikentwicklung/",
+      "icon": "fab fa-instagram",
+      "title": "Instagram"
+    },
+    {
+      "link": "https://x.com/MiraElektr66579?s=09",
+      "icon": "fab fa-twitter",
+      "title": "Twitter"
+    },
+    {
+      "link": "https://www.linkedin.com/company/mira-elektronikentwicklung/",
+      "icon": "fab fa-linkedin-in",
+      "title": "LinkedIn"
+    }
+  ]
+}

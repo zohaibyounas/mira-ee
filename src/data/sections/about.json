@@ -1,0 +1,22 @@
+{
+  "title": "MIRA Empowering <br/>Future with <br/>Digital Solutions!",
+  "subtitle": "A Gateway to Digital Solutions",
+  "number": {
+    "value": "14",
+    "label": "Years of Digital Solutions Experience"
+  },
+  "items": [
+    {
+      "title": "Our Mission",
+      "text": "MIRA has been a reliable and trusted partner for big and small businesses in the realm of embedded systems for years. With our innovative approach and skilled professionals, we deliver prompt solutions that best cater to your business needs. Our aim is to help our customers achieve their goals and enhance their competitiveness. We strive to make a positive contribution to society with our solutions. We are convinced that with our mission and vision, we can play a significant role in the future of the industry."
+    },
+    {
+      "title": "Our Basic Attitude",
+      "text": "<strong>Innovation:</strong/> We are constantly looking for new and innovative solutions to the challenges of tomorrow’s industry. <br /> <strong>Quality:</strong/> We set the highest quality standards in the development and implementation of our solutions. <br /> <strong>Reliability:</strong/> We are a reliable partner for our customers and always deliver the agreed services. <br /> <strong>Teamwork:</strong/> We work closely with our customers and partners to develop the best solutions together.",
+      "button": {
+        "label": "More About Us",
+        "link": "/about"
+      }
+    }
+  ]
+}
